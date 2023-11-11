@@ -1,10 +1,6 @@
-# Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://WooJin-Cho.github.io
-paginate: 1
-baseurl: ""
-permalink: pretty
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
 
 # Gems
 plugins:
@@ -12,30 +8,24 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
+# Permalinks
+permalink:        pretty
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://WooJin-Cho.github.io
+baseurl:          ""
 
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
-
-# Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name:           'Mark Otto'
+  url:            http://WooJin-Cho.github.io
+
+paginate:         5
 
 # Custom vars
-version: 3.0.0
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
