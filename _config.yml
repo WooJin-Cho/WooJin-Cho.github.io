@@ -17,9 +17,9 @@ tagline:          '🎹'
 description:      'Graduate student   @Yonsei university'
 url:              http://WooJin-Cho.github.io
 baseurl:          ""
-authorImage:      "/Images/wj.jpeg"
-# authorImage:      "/Images/woojin.jpg"
-# authorImage:      "/Images/s3.jpeg"
+authorImage:      "/images/wj.jpeg"
+# authorImage:      "/images/woojin.jpg"
+# authorImage:      "/images/s3.jpeg"
 
 
 author:
