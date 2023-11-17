@@ -12,20 +12,24 @@ plugins:
 permalink:        pretty
 
 # Setup
-title:            Woojin Cho
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Woojin
+tagline:          '🎹'
+description:      'Graduate student   @Yonsei university'
 url:              http://WooJin-Cho.github.io
 baseurl:          ""
+authorImage:      "/Images/wj.jpeg"
+# authorImage:      "/Images/woojin.jpg"
+# authorImage:      "/Images/s3.jpeg"
+
 
 author:
   name:           'Woojin'
   url:            http://WooJin-Cho.github.io
-
+  email:          snowmoon@yonsei.ac.kr
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:           
+  repo:           https://github.com/WooJin-Cho
