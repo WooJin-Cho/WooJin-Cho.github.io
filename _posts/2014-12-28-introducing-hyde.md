@@ -15,9 +15,9 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 ## Publication
 
-* When Neural ODEs meet Neural Operators \
+* Operator-learning-inspired Modeling of Neural Ordinary Differential Equations \
 **W Cho**, S Cho, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park \
-**(Under review)**
+**(AAAI 2024)**
 
 
 * Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks \
