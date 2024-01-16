@@ -8,21 +8,24 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 -------------------------------------------------------------------------------------------
 
-> 📎 **I am actively seeking a company where I can work from the summer of 2024, for my special-military service (전문연구요원).**
+> 📎 **I am actively seeking a company where I can work from the summer of 2024, for my special-military service(전문연구요원).**
 
 
 -------------------------------------------------------------------------------------------
 
 ## Publication
 
-* Operator-learning-inspired Modeling of Neural Ordinary Differential Equations \
-**W Cho**, S Cho, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park \
-**(AAAI 2024)**
+* Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer\
+<span style="font-size: 18px; color: darkblue">Y Yu, J Choi, **W Cho**, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park</span> \
+**ICLR 2024** [[Paper]](https://arxiv.org/abs/2312.12467)
 
+* Operator-learning-inspired Modeling of Neural Ordinary Differential Equations \
+<span style="font-size: 18px; color: darkblue">**W Cho <sup>*</sup>**, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park</span> \
+**AAAI 2024** [[Paper]](https://arxiv.org/abs/2312.10274)[[Code]](https://github.com/WooJin-Cho/BFNO-NODE)
 
 * Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks \
-**W Cho**, K Lee, D Rim, N Park \
-**(NeurIPS 2023 spotlight)** [[Paper]](https://arxiv.org/abs/2310.09528)[[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)  
+<span style="font-size: 18px; color: darkblue">**W Cho**, K Lee, D Rim, N Park</span> \
+**NeurIPS 2023 (spotlight)** [[Paper]](https://arxiv.org/abs/2310.09528)[[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)  
 &nbsp;
 &nbsp;
 
@@ -38,3 +41,9 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 >B.S in Electrical electronic engineering
 
 * **Sejong Science High School**
+
+-------------------------------------------------------------------------------------------
+
+## Career
+* **Arizona State University** ( Jan 2024 - Jun 2024 )\
+> Visiting Researcher
