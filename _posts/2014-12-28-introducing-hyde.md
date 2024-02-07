@@ -14,18 +14,29 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 -------------------------------------------------------------------------------------------
 
 ## Publication
+* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> NeRT: Implicit Neural Representation for Time Series</span>\
+<span style="font-size: 18px; color: darkblue">**W Cho <sup>*</sup>**, M Jo<sup>*</sup>, K Lee, D Rim, N Park</span> \
+<span style="font-size: 20px; color: gray">(Preprint Under-review)</span> [[Paper]](https://openreview.net/pdf?id=FpElWzxzu4)
 
-* Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer\
+* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Promoting Sparsity In Continuous-Time Models To Learn Delayed Dependence Structures</span>\
+<span style="font-size: 18px; color: darkblue">F Wu, **W Cho**, D Korotky, S Hong, D Rim, N Park, K Lee</span> \
+<span style="font-size: 20px; color: gray">(Preprint Under-review)</span> [[Paper]](https://openreview.net/pdf?id=2pAdYVCbU9)
+
+* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> P<sup>2</sup>INNs: Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs</span>\
+<span style="font-size: 18px; color: darkblue">**W Cho**, M Jo, H Lim, K Lee, D Lee, S Hong, N Park</span> \
+<span style="font-size: 20px; color: gray">(Preprint Under-review)</span>
+
+* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer</span>\
 <span style="font-size: 18px; color: darkblue">Y Yu, J Choi, **W Cho**, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park</span> \
 **ICLR 2024** [[Paper]](https://arxiv.org/abs/2312.12467)
 
-* Operator-learning-inspired Modeling of Neural Ordinary Differential Equations \
+* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Operator-learning-inspired Modeling of Neural Ordinary Differential Equations</span>\
 <span style="font-size: 18px; color: darkblue">**W Cho <sup>*</sup>**, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park</span> \
 **AAAI 2024** [[Paper]](https://arxiv.org/abs/2312.10274)[[Code]](https://github.com/WooJin-Cho/BFNO-NODE)
 
-* Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks \
+* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks</span>\
 <span style="font-size: 18px; color: darkblue">**W Cho**, K Lee, D Rim, N Park</span> \
-**NeurIPS 2023 (spotlight)** [[Paper]](https://arxiv.org/abs/2310.09528)[[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)  
+**NeurIPS 2023 <span style="font-size: 20px; color: blue">(Spotlight)</span>** [[Paper]](https://arxiv.org/abs/2310.09528)[[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)  
 &nbsp;
 &nbsp;
 
