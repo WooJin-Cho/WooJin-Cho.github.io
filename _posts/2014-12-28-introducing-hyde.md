@@ -14,6 +14,10 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 -------------------------------------------------------------------------------------------
 
 ## Publication
+* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Extension of Physics-informed Neural Networks to Solving Parameterized PDEs</span>\
+<span style="font-size: 18px; color: darkblue">**W Cho**, M Jo, H Lim, K Lee, D Lee, S Hong, N Park</span> \
+<span style="font-size: 20px; color: gray">(Preprint Under-review)</span>
+
 * <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> NeRT: Implicit Neural Representation for Time Series</span>\
 <span style="font-size: 18px; color: darkblue">**W Cho <sup>*</sup>**, M Jo<sup>*</sup>, K Lee, D Rim, N Park</span> \
 <span style="font-size: 20px; color: gray">(Preprint Under-review)</span> [[Paper]](https://openreview.net/pdf?id=FpElWzxzu4)
@@ -36,7 +40,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 * <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks</span>\
 <span style="font-size: 18px; color: darkblue">**W Cho**, K Lee, D Rim, N Park</span> \
-**NeurIPS 2023 <span style="font-size: 20px; color: blue">(Spotlight)</span>** [[Paper]](https://arxiv.org/abs/2310.09528)[[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)  
+**NeurIPS 2023 <span style="font-size: 18px; color: blue">(Spotlight)</span>** [[Paper]](https://arxiv.org/abs/2310.09528)[[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)  
 &nbsp;
 &nbsp;
 
