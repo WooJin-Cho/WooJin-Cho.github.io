@@ -62,4 +62,18 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 ## Career
 * **Arizona State University** ( Jan 2024 - Jun 2024 )\
-> Visiting Researcher
+> Visiting Researcher (hosted by [Prof.Kookjin Lee](https://klee44.github.io/))
+
+-------------------------------------------------------------------------------------------
+
+## Invited Talk
+
+* Scientific Machine Learning (hosted by KIAS) [[Link]](https://kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720231223-0002&menuNo=408014&schoolsCd=&centrspgmsCd=AI&sdate=2024-01-01&edate=&mjrcdnm=&searchCnd=1&searchWord=&pageIndex=1)
+* Latest Trends in Machine Learning based Physics Simulation (hosted by Samsung electronics)
+
+-------------------------------------------------------------------------------------------
+
+## Scholarship
+
+* AAAI scholarship [[Link]](https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/) (2024)
+* ILJU Academy and Culture Foundation [[Link]](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) (2019-2022)
