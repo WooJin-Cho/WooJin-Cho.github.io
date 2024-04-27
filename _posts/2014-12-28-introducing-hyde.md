@@ -41,7 +41,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 * <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks</span>\
 <span style="font-size: 18px; color: darkblue">**W Cho**, K Lee, D Rim, N Park</span> \
-**NeurIPS 2023 <span style="font-size: 18px; color: blue">(Spotlight)</span>** [[Paper]](https://arxiv.org/abs/2310.09528)[[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)  
+**NeurIPS 2023 <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span>** [[Paper]](https://arxiv.org/abs/2310.09528)[[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)  
 &nbsp;
 &nbsp;
 
