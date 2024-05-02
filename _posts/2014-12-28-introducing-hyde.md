@@ -23,9 +23,10 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 <span style="font-size: 18px; color: darkblue">F Wu, **W Cho**, D Korotky, S Hong, D Rim, N Park, K Lee</span> \
 <span style="font-size: 20px; color: gray">(Submitted to IJCAI 2024)</span> [[Paper]](https://openreview.net/pdf?id=2pAdYVCbU9)
 
-* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> P<sup>2</sup>INNs: Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs</span>\
+* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs</span>\
 <span style="font-size: 18px; color: darkblue">**W Cho**, M Jo, H Lim, K Lee, D Lee, S Hong, N Park</span> \
-<span style="font-size: 20px; color: gray">(Submitted to ICML 2024)</span>
+**ICML 2024**
+  
 
 * <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Extension of Physics-informed Neural Networks to Solving Parameterized PDEs</span>\
 <span style="font-size: 18px; color: darkblue">**W Cho**, M Jo, H Lim, K Lee, D Lee, S Hong, N Park</span> \
