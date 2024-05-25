@@ -145,9 +145,10 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+/* change max-width! */
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 100rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -159,6 +160,20 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
+
+
+/* Text with image in main contents */
+.content-with-image {
+  display: flex;  
+  align-items: center;  
+  margin-bottom: 20px;  
+}
+
+.inline-image {
+  margin-right: 20px;  
+  max-width: 200px;  
+}
+
 
 
 /*

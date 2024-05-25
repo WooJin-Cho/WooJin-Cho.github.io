@@ -6,36 +6,120 @@ title: Woojin Cho
 I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view/noseong)  [(Bigdata Analytics Lab)](https://sites.google.com/view/npark/home) in the Department of Artificial Intelligence at [Yonsei University](https://www.yonsei.ac.kr/en_sc/). My primary research areas include scientific machine learning, foundation model and implicit neural representations (INR). Additionally, I have an interest in deep learning frameworks based on meta-learning, pruning and data compression method. In the future, I aspire to research related to simulation techniques by combining numerical analysis methods with scientific ML technologies (e.g., Physics-informed neural networks, Neural operator, etc.). I have a goal to build an artificial intelligence that can be interpreted mathematically and statistically. 
 **I greatly enjoy collaborating with researchers who share similar interests. If you are interested in my research areas or would like to collaborate, please feel free to contact me! ([snowmoon@yonsei.ac.kr](mailto:snowmoon@yonsei.ac.kr))**
 
+-------------------------------------------------------------------------------------------
+
 
 ## Publication
 
-* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> NeRT: Implicit Neural Representation for Time Series</span>\
-<span style="font-size: 18px; color: darkblue">**W Cho <sup>*</sup>**, M Jo<sup>*</sup>, K Lee, D Rim, N Park</span> \
-<span style="font-size: 20px; color: gray">(Preprint)</span> [[Paper]](https://openreview.net/pdf?id=FpElWzxzu4)
 
-* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Promoting Sparsity In Continuous-Time Models To Learn Delayed Dependence Structures</span>\
-<span style="font-size: 18px; color: darkblue">F Wu, **W Cho**, D Korotky, S Hong, D Rim, N Park, K Lee</span> \
-<span style="font-size: 20px; color: gray">(Preprint)</span> [[Paper]](https://openreview.net/pdf?id=2pAdYVCbU9)
 
-* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs</span>\
-<span style="font-size: 18px; color: darkblue">**W Cho**, M Jo, H Lim, K Lee, D Lee, S Hong, N Park</span> \
-**ICML 2024**
-  
-* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Extension of Physics-informed Neural Networks to Solving Parameterized PDEs</span>\
-<span style="font-size: 18px; color: darkblue">**W Cho**, M Jo, H Lim, K Lee, D Lee, S Hong, N Park</span> \
-**ICLR 2024 workshop** [[Paper]](https://openreview.net/forum?id=EAkRlHFLBc&referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1))
+<div class="content-with-image">
+  <img src="../images/preprint_nert.jpg" alt="Example Image" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        NeRT: Implicit Neural Representation for Time Series    </span><br>
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, D Rim, N Park
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Preprint)</span>
+    <a href="https://openreview.net/pdf?id=FpElWzxzu4" target="_blank">[Paper]</a> 
+  </p>
+</div>
 
-* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer</span>\
-<span style="font-size: 18px; color: darkblue">Y Yu, J Choi, **W Cho**, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park</span> \
-**ICLR 2024** [[Paper]](https://arxiv.org/abs/2312.12467)[[Code]](https://github.com/yuyudeep/hcmt)
 
-* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Operator-learning-inspired Modeling of Neural Ordinary Differential Equations</span>\
-<span style="font-size: 18px; color: darkblue">**W Cho <sup>*</sup>**, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park</span> \
-**AAAI 2024** [[Paper]](https://arxiv.org/abs/2312.10274)[[Code]](https://github.com/WooJin-Cho/BFNO-NODE)
+<div class="content-with-image">
+  <img src="../images/preprint_ndde.jpg" alt="Example Image" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Promoting Sparsity In Continuous-Time Models To Learn Delayed Dependence Structures    </span><br>
+    <span style="font-size: 18px; color: silver">
+      F Wu, <strong>W Cho</strong>, D Korotky, S Hong, D Rim, N Park, K Lee
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Preprint)</span>
+    <a href="https://openreview.net/pdf?id=2pAdYVCbU9" target="_blank">[Paper]</a> 
+  </p>
+</div>
 
-* <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks</span>\
-<span style="font-size: 18px; color: darkblue">**W Cho**, K Lee, D Rim, N Park</span> \
-**NeurIPS 2023 <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span>** [[Paper]](https://arxiv.org/abs/2310.09528)[[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)  
+
+<div class="content-with-image">
+  <img src="../images/ICML_2024_p2inn.jpg" alt="Example Image" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs    </span><br>
+    <span style="font-size: 18px; color: silver">
+      <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
+    </span><br>
+    <strong>ICLR 2024</strong> 
+  </p>
+</div>
+
+
+
+<div class="content-with-image">
+  <img src="../images/ICLR_2024_workshop_p2inn.jpg" alt="Example Image" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Extension of Physics-informed Neural Networks to Solving Parameterized PDEs    </span><br>
+    <span style="font-size: 18px; color: silver">
+      <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
+    </span><br>
+    <strong>ICLR 2024 workshop</strong> 
+    <a href="https://openreview.net/forum?id=EAkRlHFLBc&referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1" target="_blank">[Paper]</a> 
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/ICLR_2024_graph.jpg" alt="Example Image" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+      Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+      Y Yu, J Choi, <strong>W Cho</strong>, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park
+    </span><br>
+    <strong>ICLR 2024</strong> 
+    <a href="https://arxiv.org/abs/2312.12467" target="_blank">[Paper]</a> 
+    <a href="https://github.com/yuyudeep/hcmt" target="_blank">[Code]</a>
+  </p>
+</div>
+
+
+
+<div class="content-with-image">
+  <img src="../images/AAAI_2024_bfno.jpg" alt="Example Image" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+      Operator-learning-inspired Modeling of Neural Ordinary Differential Equations
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+      <strong>W Cho<sup>*</sup></strong>, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park
+    </span><br>
+    <strong>AAAI 2024</strong> 
+    <a href="https://arxiv.org/abs/2312.10274" target="_blank">[Paper]</a> 
+    <a href="https://github.com/WooJin-Cho/BFNO-NODE" target="_blank">[Code]</a>
+  </p>
+</div>
+
+
+
+<div class="content-with-image">
+  <img src="../images/NeurIPS_2023_hyper.jpg" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks    </span><br>
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho</strong>, K Lee, D Rim, N Park
+    </span><br>
+    <strong>NeurIPS 2023  <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong>
+    <a href="https://arxiv.org/abs/2310.09528" target="_blank">[Paper]</a> 
+    <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">[Code]</a>
+  </p>
+</div>
+
+
+
+
 &nbsp;
 &nbsp;
 
