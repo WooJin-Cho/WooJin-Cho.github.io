@@ -171,10 +171,23 @@ a.sidebar-nav-item:focus {
 
 .inline-image {
   margin-right: 20px;  
-  max-width: 200px;  
+  max-width: 200px;
+  height: auto;  
 }
 
 
+/* mobile environments */
+@media (max-width: 80em) {
+  .content-with-image {
+    flex-direction: column; 
+    align-items: flex-start; 
+  }
+
+  .inline-image {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+}
 
 /*
  * Reverse layout
