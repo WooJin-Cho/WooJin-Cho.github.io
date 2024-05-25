@@ -11,8 +11,6 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 ## Publication
 
-
-
 <div class="content-with-image">
   <img src="../images/preprint_nert.jpg" alt="Example Image" class="inline-image">
   <p>
