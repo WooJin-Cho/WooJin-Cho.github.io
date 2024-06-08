@@ -47,7 +47,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICLR 2024</strong> 
+    <strong>ICML 2024  <span> style="font-size: 18px; color: blue">(Oral)</span> </strong> 
   </p>
 </div>
 
@@ -109,7 +109,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, D Rim, N Park
     </span><br>
-    <strong>NeurIPS 2023  <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong>
+    <strong>NeurIPS 2023  <span> style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong>
     <a href="https://arxiv.org/abs/2310.09528" target="_blank">[Paper]</a> 
     <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">[Code]</a>
   </p>
