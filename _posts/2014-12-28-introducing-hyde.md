@@ -47,7 +47,9 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICML 2024  <span style="font-size: 18px; color: blue">(Oral)</span> </strong> 
+    <strong>ICML 2024  <span style="font-size: 18px; color: blue">(Oral, Top 1.52%)</span> </strong> 
+    <a href="https://openreview.net/pdf/fe697f398d9b1f2050ed2f5ebd2a000a77a89546.pdf" target="_blank">[Paper]</a> 
+    <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">[Presentation]</a>
   </p>
 </div>
 
