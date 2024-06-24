@@ -153,5 +153,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 ## Scholarship
 
-* AAAI scholarship [[Link]](https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/) (2024)
+* ICML 2024 Financial Aid [[Link]](https://icml.cc/Conferences/2024/FinancialAid)
+* Google Conference Scholarship [[Link]](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships)
+* AAAI 2024 Scholarship [[Link]](https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/)
 * ILJU Academy and Culture Foundation [[Link]](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) (2019-2022)
