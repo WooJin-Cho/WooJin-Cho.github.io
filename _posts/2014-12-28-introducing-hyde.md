@@ -128,7 +128,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 ## Education
 
 * **Yonsei University**\
-> M.S in Artificial Intelligence (Ongoing)
+> M.S in Artificial Intelligence (Present)
 
 * **Yonsei University**\
 >B.S in Atmospheric science\
