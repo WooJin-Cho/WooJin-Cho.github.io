@@ -139,6 +139,10 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 -------------------------------------------------------------------------------------------
 
 ## Career
+
+* **[Telepix](https://www.telepix.net/)** ( Jun 2024 - Present )\
+> AI research team (Alternative military service)
+
 * **Arizona State University** ( Jan 2024 - Jun 2024 )\
 > Visiting Researcher (hosted by [Prof.Kookjin Lee](https://klee44.github.io/))
 
