@@ -33,7 +33,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-size: 18px; color: silver">
       F Wu, <strong>W Cho</strong>, D Korotky, S Hong, D Rim, N Park, K Lee
     </span><br>
-    <span style="font-size: 20px; color: gray">(Preprint)</span>
+    <strong>CIKM 2024 </strong> 
     <a href="https://openreview.net/pdf?id=2pAdYVCbU9" target="_blank">[Paper]</a> 
   </p>
 </div>
