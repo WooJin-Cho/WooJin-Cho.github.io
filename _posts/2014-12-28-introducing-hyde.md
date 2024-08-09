@@ -12,7 +12,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 ## Publication
 
 <div class="content-with-image">
-  <img src="../images/coming-soon.png" alt="Example Image" class="inline-image">
+  <img src="../images/coming_soon.png" alt="Example Image" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
