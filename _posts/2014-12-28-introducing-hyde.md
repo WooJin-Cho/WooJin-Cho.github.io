@@ -12,6 +12,20 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 ## Publication
 
 <div class="content-with-image">
+  <img src="../images/coming-soon.png" alt="Example Image" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_nert.jpg" alt="Example Image" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -19,7 +33,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, D Rim, N Park
     </span><br>
-    <span style="font-size: 20px; color: gray">(Preprint)</span>
+    <span style="font-size: 20px; color: gray">(Under review)</span>
     <a href="https://openreview.net/pdf?id=FpElWzxzu4" target="_blank">[Paper]</a> 
   </p>
 </div>
