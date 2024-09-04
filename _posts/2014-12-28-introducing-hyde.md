@@ -142,7 +142,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 ## Education
 
 * **Yonsei University**\
-> M.S in Artificial Intelligence (Present)
+> M.S in Artificial Intelligence
 
 * **Yonsei University**\
 >B.S in Atmospheric science\
@@ -166,8 +166,9 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 * Scientific Machine Learning (hosted by [KIAS](https://kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720231223-0002&menuNo=408014&schoolsCd=&centrspgmsCd=AI&sdate=2024-01-01&edate=&mjrcdnm=&searchCnd=1&searchWord=&pageIndex=1))
 * Parameterized Physics-informed Neural Networks for Parameterized PDEs (hosted by [ML2](https://www.kc-ml2.com/))
-* Latest Trends in Machine Learning based Physics Simulation (hosted by [Samsung electronics](https://www.samsung.com/))
+* Latest Trends in Machine Learning based Physics Simulation (hosted by [Samsung Electronics](https://www.samsung.com/))
 * Physics-informed Neural Networks for Solving PDEs (hosted by [Alsemy](https://www.alsemy.com/))
+
 -------------------------------------------------------------------------------------------
 
 ## Scholarship
@@ -175,4 +176,4 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 * ICML 2024 Financial Aid [[Link]](https://icml.cc/Conferences/2024/FinancialAid)
 * Google Conference Scholarship [[Link]](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships)
 * AAAI 2024 Scholarship [[Link]](https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/)
-* ILJU Academy and Culture Foundation [[Link]](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) (2019-2022)
+* ILJU Academy and Culture Foundation [[Link]](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do)
