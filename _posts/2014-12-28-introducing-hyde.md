@@ -29,20 +29,6 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
   <img src="../images/coming_soon.png" alt="Example Image" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Neural Compression for Multispectral Satellite Images
-    </span><br>
-    <span style="font-size: 18px; color: silver">
-        <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
-    </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/coming_soon.png" alt="Example Image" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
     </span><br>
     <span style="font-size: 18px; color: silver">
@@ -54,7 +40,21 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_nert.jpg" alt="Example Image" class="inline-image">
+  <img src="../images/preprint_implisat.png" alt="Example Image" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Neural Compression for Multispectral Satellite Images
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_nert.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         NeRT: Implicit Neural Representation for Time Series    </span><br>
@@ -68,7 +68,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_ndde.jpg" alt="Example Image" class="inline-image">
+  <img src="../images/preprint_ndde.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Promoting Sparsity In Continuous-Time Models To Learn Delayed Dependence Structures    </span><br>
@@ -82,7 +82,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 
 <div class="content-with-image">
-  <img src="../images/ICML_2024_p2inn.jpg" alt="Example Image" class="inline-image">
+  <img src="../images/ICML_2024_p2inn.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs    </span><br>
@@ -98,7 +98,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 
 <div class="content-with-image">
-  <img src="../images/ICLR_2024_workshop_p2inn.jpg" alt="Example Image" class="inline-image">
+  <img src="../images/ICLR_2024_workshop_p2inn.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Extension of Physics-informed Neural Networks to Solving Parameterized PDEs    </span><br>
@@ -112,7 +112,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 
 <div class="content-with-image">
-  <img src="../images/ICLR_2024_graph.jpg" alt="Example Image" class="inline-image">
+  <img src="../images/ICLR_2024_graph.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
       Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer
@@ -129,7 +129,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
 
 
 <div class="content-with-image">
-  <img src="../images/AAAI_2024_bfno.jpg" alt="Example Image" class="inline-image">
+  <img src="../images/AAAI_2024_bfno.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
       Operator-learning-inspired Modeling of Neural Ordinary Differential Equations
