@@ -17,9 +17,9 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy data?
     </span><br>
-    <span style="font-size: 18px; color: silver">
+<!--     <span style="font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
-    </span><br>
+    </span><br> -->
     <span style="font-size: 20px; color: gray">(Under review)</span>
   </p>
 </div>
@@ -31,9 +31,9 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
     </span><br>
-    <span style="font-size: 18px; color: silver">
+<!--     <span style="font-size: 18px; color: silver">
         U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
-    </span><br>
+    </span><br> -->
     <span style="font-size: 20px; color: gray">(Under review)</span>
   </p>
 </div>
@@ -45,9 +45,9 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Neural Compression for Multispectral Satellite Images
     </span><br>
-    <span style="font-size: 18px; color: silver">
+<!--     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
-    </span><br>
+    </span><br> -->
     <span style="font-size: 20px; color: gray">(Under review)</span>
   </p>
 </div>
