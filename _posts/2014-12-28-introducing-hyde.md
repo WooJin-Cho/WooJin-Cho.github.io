@@ -48,7 +48,7 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, N Park, D Rim, G Welper
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review, preprint)</span>
+    <span style="font-size: 20px; color: gray">(Under review)</span>
     <a href="https://arxiv.org/pdf/2410.04001" target="_blank">[Paper]</a> 
   </p>
 </div>
