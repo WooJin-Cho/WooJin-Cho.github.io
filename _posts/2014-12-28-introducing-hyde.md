@@ -64,7 +64,8 @@ I am a M.S. student advised by [Prof.Noseong Park](https://sites.google.com/view
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span>
+    <strong>NeurIPS 2024 workshop</strong>
+    <a href="https://steveimmanuel.github.io/implisat/" target="_blank">[Project]</a> 
   </p>
 </div>
 
