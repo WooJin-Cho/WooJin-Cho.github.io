@@ -27,7 +27,22 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_lrnr.png" alt="Example Image" class="inline-image">
+  <img src="../images/preprint_mad.JPG" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        M Kang, D Lee, <strong>W Cho</strong>, J Park, K Lee, A Gruber, Y Hong, N Park
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span>
+    <a href="https://arxiv.org/pdf/2410.06442" target="_blank">[Paper]</a> 
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_lrnr.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         FastLRNR and Sparse Physics Informed Backpropagation
