@@ -62,7 +62,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         NeRT: Implicit Neural Representation for Time Series    </span><br>
     <span style="font-size: 18px; color: silver">
-        <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, D Rim, N Park
+        <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
     </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span>
     <a href="https://openreview.net/pdf?id=FpElWzxzu4" target="_blank">[Paper]</a> 
