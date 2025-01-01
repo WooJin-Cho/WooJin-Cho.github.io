@@ -80,6 +80,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
         M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
     </span><br>
     <strong>NeurIPS 2024 workshop</strong>
+    <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">[Paper]</a>
   </p>
 </div>
 
@@ -94,6 +95,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
     <strong>NeurIPS 2024 workshop</strong>
+    <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">[Paper]</a>
     <a href="https://github.com/SteveImmanuel/implisat" target="_blank">[Code]</a>
     <a href="https://steveimmanuel.github.io/implisat/" target="_blank">[Project]</a>
   </p>
