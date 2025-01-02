@@ -237,9 +237,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 -------------------------------------------------------------------------------------------
 
 ## Academic Services 
-
 Reviewer or Program Committee Member for Conference
-
 * Conference on Neural Information Processing Systems (NeurIPS): 2024
 * International Conference on Machine Learning (ICML): 2025
 
