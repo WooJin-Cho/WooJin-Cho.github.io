@@ -236,9 +236,19 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 -------------------------------------------------------------------------------------------
 
+## Academic Services 
+
+Reviewer or Program Committee Member for Conference
+
+* Conference on Neural Information Processing Systems (NeurIPS): 2024
+* International Conference on Machine Learning (ICML): 2025
+
+-------------------------------------------------------------------------------------------
+
+
 ## Scholarship
 
-* ICML 2024 Financial Aid [[Link]](https://icml.cc/Conferences/2024/FinancialAid)
-* Google Conference Scholarship [[Link]](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships)
-* AAAI 2024 Scholarship [[Link]](https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/)
-* ILJU Academy and Culture Foundation [[Link]](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do)
+* ICML Financial Aid (2024) [[Link]](https://icml.cc/Conferences/2024/FinancialAid)
+* Google Conference Scholarship (2024) [[Link]](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships)
+* AAAI Scholarship (2024) [[Link]](https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/)
+* ILJU Academy and Culture Foundation (2019-2022) [[Link]](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do)
