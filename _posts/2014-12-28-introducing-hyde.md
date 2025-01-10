@@ -13,6 +13,20 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 ## Publication
 
 <div class="content-with-image">
+  <img src="../images/preprint_fourier.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/coming_soon.png" alt="Example Image" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
