@@ -78,8 +78,8 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span>
-    <a href="https://openreview.net/pdf?id=FpElWzxzu4" target="_blank">[Paper]</a> 
+    <strong>ICLR 2025</strong>
+    <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">[Paper]</a>
   </p>
 </div>
 
@@ -139,7 +139,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
     <strong>ICML 2024  <span style="font-size: 18px; color: blue">(Oral, Top 1.52%)</span> </strong> 
-    <a href="https://openreview.net/pdf/fe697f398d9b1f2050ed2f5ebd2a000a77a89546.pdf" target="_blank">[Paper]</a>
+    <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
     <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">[Presentation]</a>
   </p>
