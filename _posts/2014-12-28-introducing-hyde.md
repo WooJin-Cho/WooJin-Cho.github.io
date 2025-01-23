@@ -74,7 +74,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
   <img src="../images/preprint_nert.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        NeRT: Implicit Neural Representation for Time Series    </span><br>
+        Neural Functions for Learning Periodic Signal    </span><br>
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
     </span><br>
