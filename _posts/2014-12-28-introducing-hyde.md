@@ -64,7 +64,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, N Park, D Rim, G Welper
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span>
+    <strong>Results in Applied Mathematics 2025</strong>
     <a href="https://arxiv.org/pdf/2410.04001" target="_blank">[Paper]</a> 
   </p>
 </div>
