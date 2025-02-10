@@ -12,6 +12,24 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 ## Publication
 
+
+<div class="content-with-image">
+  <img src="../images/preprint_rs_inpainting.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span>
+  </p>
+</div>
+
+
+
+
+
 <div class="content-with-image">
   <img src="../images/preprint_fourier.png" class="inline-image">
   <p>
