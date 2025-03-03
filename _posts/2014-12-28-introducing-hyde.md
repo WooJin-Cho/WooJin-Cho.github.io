@@ -52,7 +52,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, J Park, K Lee, A Gruber, Y Hong, N Park
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span>
+    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
     <a href="https://arxiv.org/pdf/2410.06442" target="_blank">[Paper]</a> 
   </p>
 </div>
@@ -67,7 +67,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, N Park, D Rim, G Welper
     </span><br>
-    <strong>Results in Applied Mathematics 2025</strong>
+    <strong>Results in Applied Mathematics 2025</strong><br/>
     <a href="https://arxiv.org/pdf/2410.04001" target="_blank">[Paper]</a> 
   </p>
 </div>
@@ -95,7 +95,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
     </span><br>
-    <strong>ICLR 2025</strong>
+    <strong>ICLR 2025</strong><br/>
     <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">[Paper]</a>
   </p>
 </div>
@@ -110,7 +110,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
     </span><br>
-    <strong>NeurIPS 2024 Workshop on Foundation Models for Science</strong>
+    <strong>NeurIPS 2024 Workshop on Foundation Models for Science</strong><br/>
     <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">[Paper]</a>
   </p>
 </div>
@@ -125,7 +125,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-    <strong>NeurIPS 2024 Workshop on Machine Learning and Compression</strong>
+    <strong>NeurIPS 2024 Workshop on Machine Learning and Compression</strong><br/>
     <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">[Paper]</a>
     <a href="https://github.com/SteveImmanuel/implisat" target="_blank">[Code]</a>
     <a href="https://steveimmanuel.github.io/implisat/" target="_blank">[Project]</a>
@@ -141,7 +141,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
       F Wu, <strong>W Cho</strong>, D Korotky, S Hong, D Rim, N Park, K Lee
     </span><br>
-    <strong>CIKM 2024 </strong> 
+    <strong>CIKM 2024 </strong><br/>
     <a href="https://openreview.net/pdf?id=2pAdYVCbU9" target="_blank">[Paper]</a>
   </p>
 </div>
@@ -155,7 +155,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICML 2024  <span style="font-size: 18px; color: blue">(Oral, Top 1.52%)</span> </strong> 
+    <strong>ICML 2024  <span style="font-size: 18px; color: blue">(Oral, Top 1.52%)</span> </strong><br/> 
     <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
     <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">[Presentation]</a>
@@ -172,7 +172,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICLR 2024 Workshop on AI4DifferentialEquations in Science</strong> 
+    <strong>ICLR 2024 Workshop on AI4DifferentialEquations in Science</strong><br/> 
     <a href="https://openreview.net/forum?id=EAkRlHFLBc&referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
   </p>
@@ -188,7 +188,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
       Y Yu, J Choi, <strong>W Cho</strong>, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park
     </span><br>
-    <strong>ICLR 2024</strong> 
+    <strong>ICLR 2024</strong><br/> 
     <a href="https://arxiv.org/abs/2312.12467" target="_blank">[Paper]</a> 
     <a href="https://github.com/yuyudeep/hcmt" target="_blank">[Code]</a>
   </p>
@@ -205,7 +205,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
       <strong>W Cho<sup>*</sup></strong>, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park
     </span><br>
-    <strong>AAAI 2024</strong> 
+    <strong>AAAI 2024</strong><br/> 
     <a href="https://arxiv.org/abs/2312.10274" target="_blank">[Paper]</a> 
     <a href="https://github.com/WooJin-Cho/BFNO-NODE" target="_blank">[Code]</a>
   </p>
@@ -221,7 +221,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, D Rim, N Park
     </span><br>
-    <strong>NeurIPS 2023  <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong>
+    <strong>NeurIPS 2023  <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong><br/>
     <a href="https://arxiv.org/abs/2310.09528" target="_blank">[Paper]</a> 
     <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">[Code]</a>
   </p>
