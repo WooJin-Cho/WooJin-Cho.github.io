@@ -13,21 +13,6 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 ## Publication
 
 
-<div class="content-with-image">
-  <img src="../images/preprint_rs_inpainting.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model
-    </span><br>
-    <span style="font-size: 18px; color: silver">
-        S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
-    </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span>
-  </p>
-</div>
-
-
-
 
 
 <div class="content-with-image">
@@ -89,6 +74,20 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 <div class="content-with-image">
+  <img src="../images/preprint_rs_inpainting.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
+    </span><br>
+    <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 18px; color: blue">(Oral)</span></strong>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_nert.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -111,7 +110,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
     </span><br>
-    <strong>NeurIPS 2024 workshop</strong>
+    <strong>NeurIPS 2024 Workshop on Foundation Models for Science</strong>
     <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">[Paper]</a>
   </p>
 </div>
@@ -126,7 +125,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-    <strong>NeurIPS 2024 workshop</strong>
+    <strong>NeurIPS 2024 Workshop on Machine Learning and Compression</strong>
     <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">[Paper]</a>
     <a href="https://github.com/SteveImmanuel/implisat" target="_blank">[Code]</a>
     <a href="https://steveimmanuel.github.io/implisat/" target="_blank">[Project]</a>
@@ -173,7 +172,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICLR 2024 workshop</strong> 
+    <strong>ICLR 2024 Workshop on AI4DifferentialEquations in Science</strong> 
     <a href="https://openreview.net/forum?id=EAkRlHFLBc&referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
   </p>
