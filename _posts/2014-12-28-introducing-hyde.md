@@ -66,7 +66,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
     </span><br>
-    <strong>ICLR 2025 Workshop on Weight Space Learning</strong>
+    <strong>ICLR 2025 Workshop on Weight Space Learning</strong><br/>
     <a href="https://openreview.net/forum?id=d2tuf1C8Vm" target="_blank">[Openreview]</a>
   </p>
 </div>
@@ -81,7 +81,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
     </span><br>
-    <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 18px; color: blue">(Oral)</span></strong>
+    <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 18px; color: blue">(Oral)</span></strong><br/>
     <a href="  https://www.arxiv.org/pdf/2503.03785" target="_blank">[Paper]</a>
     <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">[Code]</a>
     <a href="https://rspaint.steveimm.id/" target="_blank">[Project]</a>
