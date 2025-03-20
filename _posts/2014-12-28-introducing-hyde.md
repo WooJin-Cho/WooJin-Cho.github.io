@@ -37,7 +37,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-    <strong>IGARSS 2025</strong><br/>
+    <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025</strong><br/>
   </p>
 </div>
 
