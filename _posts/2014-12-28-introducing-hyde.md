@@ -58,7 +58,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_wsl.pdf" alt="Example Image" class="inline-image">
+  <img src="../images/preprint_wsl.png" alt="Example Image" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
