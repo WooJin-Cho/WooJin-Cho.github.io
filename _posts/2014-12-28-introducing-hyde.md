@@ -13,36 +13,6 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 ## Publication
 
 
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_fourier.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression
-    </span><br>
-    <span style="font-size: 18px; color: silver">
-        <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
-    </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/coming_soon.png" alt="Example Image" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
-    </span><br>
-    <span style="font-size: 18px; color: silver">
-        U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
-    </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span>
-  </p>
-</div>
-
-
 <div class="content-with-image">
   <img src="../images/preprint_mad.JPG" class="inline-image">
   <p>
@@ -54,6 +24,20 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
     <a href="https://arxiv.org/pdf/2410.06442" target="_blank">[Paper]</a> 
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_fourier.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
+    </span><br>
+    <strong>IGARSS 2025</strong><br/>
   </p>
 </div>
 
@@ -74,6 +58,21 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 <div class="content-with-image">
+  <img src="../images/preprint_wsl.pdf" alt="Example Image" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
+    </span><br>
+    <strong>ICLR 2025 Workshop on Weight Space Learning</strong>
+    <a href="https://openreview.net/forum?id=d2tuf1C8Vm" target="_blank">[Openreview]</a>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_rs_inpainting.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -83,6 +82,9 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
         S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
     </span><br>
     <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 18px; color: blue">(Oral)</span></strong>
+    <a href="  https://www.arxiv.org/pdf/2503.03785" target="_blank">[Paper]</a>
+    <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">[Code]</a>
+    <a href="https://rspaint.steveimm.id/" target="_blank">[Project]</a>
   </p>
 </div>
 
