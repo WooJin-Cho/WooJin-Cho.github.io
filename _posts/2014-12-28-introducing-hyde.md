@@ -3,7 +3,7 @@ layout: post
 title: Woojin Cho
 ---
 
-I am currently an AI researcher at [TelePIX](https://www.telepix.net/) **(Alternative military service: Technical research personnel)**.
+I am currently an AI researcher at [TelePIX](https://telepix.net/) **(Alternative military service: Technical research personnel)**.
 I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.com/view/noseong)  [(Bigdata Analytics Lab)](https://sites.google.com/view/npark/home) in the Department of Artificial Intelligence at [Yonsei University](https://www.yonsei.ac.kr/en_sc/) and continue to collaborate closely on research. My primary research areas include scientific machine learning, foundation model, implicit neural representations (INR) and satellite technology. Additionally, I have an interest in deep learning frameworks based on meta-learning, pruning and data compression method. In the future, I aspire to research related to simulation techniques by combining numerical analysis methods with scientific ML technologies (e.g., Physics-informed neural networks, Neural operator, etc.). I have a goal to build an artificial intelligence that can be interpreted mathematically and statistically. 
 **I greatly enjoy collaborating with researchers who share similar interests. If you are interested in my research areas or would like to collaborate, please feel free to contact me! ([woojin.py@gmail.com](mailto:woojin.py@gmail.com))**
 
