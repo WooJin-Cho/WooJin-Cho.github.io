@@ -81,7 +81,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
     </span><br>
-    <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 18px; color: blue">(Oral)</span></strong><br/>
+    <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 18px; color: blue">(Best Paper)</span></strong><br/>
     <a href="  https://www.arxiv.org/pdf/2503.03785" target="_blank">[Paper]</a>
     <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">[Code]</a>
     <a href="https://rspaint.steveimm.id/" target="_blank">[Project]</a>
