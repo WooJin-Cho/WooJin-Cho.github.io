@@ -37,7 +37,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-    <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 21px; color: blue">(Oral)</span></strong><br/>
+    <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 20px; color: blue">(Oral)</span></strong><br/>
   </p>
 </div>
 
@@ -53,6 +53,20 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     </span><br>
     <strong>Results in Applied Mathematics 2025</strong><br/>
     <a href="https://arxiv.org/pdf/2410.04001" target="_blank">[Paper]</a> 
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_nert.jpg" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Neural Functions for Learning Periodic Signal    </span><br>
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
+    </span><br>
+    <strong>ICLR 2025</strong><br/>
+    <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">[Paper]</a>
   </p>
 </div>
 
@@ -81,24 +95,10 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
     </span><br>
-    <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 21px; color: blue">(Best Paper)</span></strong><br/>
+    <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 20px; color: blue">(Best Paper)</span></strong><br/>
     <a href="  https://www.arxiv.org/pdf/2503.03785" target="_blank">[Paper]</a>
     <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">[Code]</a>
     <a href="https://rspaint.steveimm.id/" target="_blank">[Project]</a>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_nert.jpg" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Neural Functions for Learning Periodic Signal    </span><br>
-    <span style="font-size: 18px; color: silver">
-        <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
-    </span><br>
-    <strong>ICLR 2025</strong><br/>
-    <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">[Paper]</a>
   </p>
 </div>
 
@@ -157,7 +157,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICML 2024  <span style="font-size: 21px; color: blue">(Oral, Top 1.52%)</span> </strong><br/> 
+    <strong>ICML 2024  <span style="font-size: 20px; color: blue">(Oral, Top 1.52%)</span> </strong><br/> 
     <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
     <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">[Presentation]</a>
@@ -223,7 +223,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, D Rim, N Park
     </span><br>
-    <strong>NeurIPS 2023  <span style="font-size: 21px; color: blue">(Spotlight, Top 3.06%)</span></strong><br/>
+    <strong>NeurIPS 2023  <span style="font-size: 20px; color: blue">(Spotlight, Top 3.06%)</span></strong><br/>
     <a href="https://arxiv.org/abs/2310.09528" target="_blank">[Paper]</a> 
     <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">[Code]</a>
   </p>
