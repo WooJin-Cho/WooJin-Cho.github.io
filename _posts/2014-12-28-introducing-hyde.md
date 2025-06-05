@@ -11,13 +11,33 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 ## Publication
+<div class="content-with-image">
+  <img src="../images/coming_soon.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/coming_soon.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Meta-learning Structure-Preserving Dynamics
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
 
 
 <div class="content-with-image">
   <img src="../images/preprint_mad.JPG" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data
+        MaD-Scientist: AI-based Scientist solving Parabolic PDEs using Massive Prior Data
     </span><br>
     <span style="font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, J Park, K Lee, A Gruber, Y Hong, N Park
