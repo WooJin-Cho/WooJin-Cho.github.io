@@ -15,7 +15,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
   <img src="../images/coming_soon.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
+        Meta-learning Structure-Preserving Dynamics
     </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
@@ -23,12 +23,13 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 <div class="content-with-image">
-  <img src="../images/coming_soon.png" class="inline-image">
+  <img src="../images/preprint_PDEfuncta.pdf" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Meta-learning Structure-Preserving Dynamics
+        PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
     </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">[Paper]</a> 
   </p>
 </div>
 
@@ -58,6 +59,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
     <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 20px; color: blue">(Oral)</span></strong><br/>
+    <a href="https://arxiv.org/pdf/2506.01234" target="_blank">[Paper]</a> 
   </p>
 </div>
 
