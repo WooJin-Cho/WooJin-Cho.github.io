@@ -28,6 +28,9 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
     </span><br>
+    <span style="font-size: 18px; color: silver">
+      M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
+    </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
     <a href="https://arxiv.org/pdf/2506.12790" target="_blank">[Paper]</a> 
   </p>
