@@ -289,8 +289,8 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 ## Academic Activities
 
 #### Reviewer or Program Committee Member for Conference
-* Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)): 2024
-* International Conference on Machine Learning ([ICML](https://icml.cc/)): 2025
+* Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/))
+* International Conference on Machine Learning ([ICML](https://icml.cc/))
 
 
 #### [ESA-NASA International Workshop on AI Foundation Model for Earth Observation](https://nikal.eventsair.com/cmspreview/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/)
@@ -315,3 +315,4 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 * [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships): 2024
 * [AAAI Scholarship](https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/): 2024
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
+
