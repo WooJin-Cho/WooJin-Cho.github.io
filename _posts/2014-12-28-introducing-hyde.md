@@ -1,16 +1,25 @@
 ---
 layout: post
-title: Woojin Cho
+title: ""
 ---
+
+<section id="about" markdown="1">
+
+## About
 
 I am currently an AI researcher at [TelePIX](https://telepix.net/) **(Alternative military service: Technical research personnel)**.
 I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.com/view/noseong)  [(Bigdata Analytics Lab)](https://sites.google.com/view/npark/home) in the Department of Artificial Intelligence at [Yonsei University](https://www.yonsei.ac.kr/en_sc/) and continue to collaborate closely on research. My primary research areas include scientific machine learning, foundation model, implicit neural representations (INR) and satellite technology. Additionally, I have an interest in deep learning frameworks based on meta-learning, pruning and data compression method. In the future, I aspire to research related to simulation techniques by combining numerical analysis methods with scientific ML technologies (e.g., Physics-informed neural networks, Neural operator, etc.). I have a goal to build an artificial intelligence that can be interpreted mathematically and statistically. 
+
 **I greatly enjoy collaborating with researchers who share similar interests. If you are interested in my research areas or would like to collaborate, please feel free to contact me! ([woojin.py@gmail.com](mailto:woojin.py@gmail.com))**
+
+</section>
 
 -------------------------------------------------------------------------------------------
 
+<section id="publication" markdown="1">
 
 ## Publication
+
 <div class="content-with-image">
   <img src="../images/coming_soon.png" class="inline-image">
   <p>
@@ -62,7 +71,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
     <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 20px; color: blue">(Oral)</span></strong><br/>
-    <a href="https://arxiv.org/pdf/2506.01234" target="_blank">[Paper]</a> 
+    <a href="https://arxiv.org/pdf/2506.01234" target="_blank">[Paper]</a>
   </p>
 </div>
 
@@ -86,7 +95,8 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
   <img src="../images/preprint_nert.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Neural Functions for Learning Periodic Signal    </span><br>
+        Neural Functions for Learning Periodic Signal
+    </span><br>
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
     </span><br>
@@ -97,7 +107,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_wsl.png" alt="Example Image" class="inline-image">
+  <img src="../images/preprint_wsl.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
@@ -129,7 +139,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 <div class="content-with-image">
-  <img src="../images/NeurIPS_2024_workshop_PFFN.JPG" class="inline-image">
+  <img src="../images/preprint_mad.JPG" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy data?
@@ -164,11 +174,12 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
   <img src="../images/preprint_ndde.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Promoting Sparsity In Continuous-Time Models To Learn Delayed Dependence Structures    </span><br>
+        Promoting Sparsity In Continuous-Time Models To Learn Delayed Dependence Structures
+    </span><br>
     <span style="font-size: 18px; color: silver">
       F Wu, <strong>W Cho</strong>, D Korotky, S Hong, D Rim, N Park, K Lee
     </span><br>
-    <strong>CIKM 2024 </strong><br/>
+    <strong>CIKM 2024</strong><br/>
     <a href="https://openreview.net/pdf?id=2pAdYVCbU9" target="_blank">[Paper]</a>
   </p>
 </div>
@@ -178,11 +189,12 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
   <img src="../images/ICML_2024_p2inn.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs    </span><br>
+        Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs
+    </span><br>
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICML 2024  <span style="font-size: 20px; color: blue">(Oral, Top 1.52%)</span> </strong><br/> 
+    <strong>ICML 2024 <span style="font-size: 20px; color: blue">(Oral, Top 1.52%)</span></strong><br/> 
     <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
     <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">[Presentation]</a>
@@ -190,12 +202,12 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 </div>
 
 
-
 <div class="content-with-image">
   <img src="../images/ICLR_2024_workshop_p2inn.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Extension of Physics-informed Neural Networks to Solving Parameterized PDEs    </span><br>
+        Extension of Physics-informed Neural Networks to Solving Parameterized PDEs
+    </span><br>
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
@@ -210,17 +222,16 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
   <img src="../images/ICLR_2024_graph.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-      Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer
+        Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer
     </span><br>
     <span style="font-size: 18px; color: silver">
       Y Yu, J Choi, <strong>W Cho</strong>, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park
     </span><br>
     <strong>ICLR 2024</strong><br/> 
-    <a href="https://arxiv.org/abs/2312.12467" target="_blank">[Paper]</a> 
+    <a href="https://arxiv.org/abs/2312.12467" target="_blank">[Paper]</a>
     <a href="https://github.com/yuyudeep/hcmt" target="_blank">[Code]</a>
   </p>
 </div>
-
 
 
 <div class="content-with-image">
@@ -233,23 +244,23 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
       <strong>W Cho<sup>*</sup></strong>, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park
     </span><br>
     <strong>AAAI 2024</strong><br/> 
-    <a href="https://arxiv.org/abs/2312.10274" target="_blank">[Paper]</a> 
+    <a href="https://arxiv.org/abs/2312.10274" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/BFNO-NODE" target="_blank">[Code]</a>
   </p>
 </div>
-
 
 
 <div class="content-with-image">
   <img src="../images/NeurIPS_2023_hyper.jpg" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks    </span><br>
+        Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks
+    </span><br>
     <span style="font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, D Rim, N Park
     </span><br>
-    <strong>NeurIPS 2023  <span style="font-size: 20px; color: blue">(Spotlight, Top 3.06%)</span></strong><br/>
-    <a href="https://arxiv.org/abs/2310.09528" target="_blank">[Paper]</a> 
+    <strong>NeurIPS 2023 <span style="font-size: 20px; color: blue">(Spotlight, Top 3.06%)</span></strong><br/>
+    <a href="https://arxiv.org/abs/2310.09528" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">[Code]</a>
   </p>
 </div>
@@ -257,34 +268,53 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 
+
+
+
+
+
+
+
+
+</section>
+
 &nbsp;
 &nbsp;
 
 -------------------------------------------------------------------------------------------
 
+<section id="education" markdown="1">
+
 ## Education
 
-* **Yonsei University**\
+* **Yonsei University**  
 > M.S in Artificial Intelligence
 
-* **Yonsei University**\
->B.S in Atmospheric science\
+* **Yonsei University**  
+>B.S in Atmospheric science  
 >B.S in Electrical electronic engineering
 
 * **Sejong Science High School**
 
+</section>
+
 -------------------------------------------------------------------------------------------
+
+<section id="career" markdown="1">
 
 ## Career
 
-* **[Telepix](https://www.telepix.net/)** ( Jun 2024 - Present )\
+* **[Telepix](https://www.telepix.net/)** ( Jun 2024 - Present )  
 > AI research team (Alternative military service)
 
-* **Arizona State University** ( Jan 2024 - Jun 2024 )\
+* **Arizona State University** ( Jan 2024 - Jun 2024 )  
 > Visiting Researcher (hosted by [Prof.Kookjin Lee](https://klee44.github.io/))
 
+</section>
 
 -------------------------------------------------------------------------------------------
+
+<section id="academic-activities" markdown="1">
 
 ## Academic Activities
 
@@ -297,7 +327,11 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 * A Unified Framework for Multi-resolution and Multi-spectral Satellite Imagery in Foundation Model Training (First author)
 * Multi-modal Foundation Model for EO and SAR Images (First author)
 
+</section>
+
 -------------------------------------------------------------------------------------------
+
+<section id="invited-talk" markdown="1">
 
 ## Invited Talk
 
@@ -307,7 +341,11 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 * Latest Trends in Machine Learning based Physics Simulation (hosted by [Samsung Electronics](https://www.samsung.com/))
 * Physics-informed Neural Networks for Solving PDEs (hosted by [Alsemy](https://www.alsemy.com/))
 
+</section>
+
 -------------------------------------------------------------------------------------------
+
+<section id="scholarship" markdown="1">
 
 ## Scholarship
 
@@ -315,4 +353,6 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 * [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships): 2024
 * [AAAI Scholarship](https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/): 2024
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
+
+</section>
 
