@@ -7,13 +7,9 @@ title: Home
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <!-- If you want to active hyperlink on title, then use the code below. -->
-      <!-- <a href="{{ post.url }}"> -->
         {{ post.title }}
       </a>
     </h1>
-    <!-- If you want to mark the post-date, then activate the code below.  -->
-    <!-- <span class="post-date">{{ post.date | date_to_string }}</span> -->
     {{ post.content }}
   </div>
   {% endfor %}
@@ -23,7 +19,6 @@ title: Home
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
-    <!-- <span class="pagination-item older">Older</span> -->
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
@@ -32,6 +27,5 @@ title: Home
       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
-    <!-- <span class="pagination-item newer">Newer</span> -->
   {% endif %}
 </div>
