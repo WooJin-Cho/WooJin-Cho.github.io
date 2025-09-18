@@ -14,10 +14,10 @@ permalink:        pretty
 # Setup
 title:            Woojin
 tagline:          '🎹'
-description:      'Graduate student   @Yonsei university'
+description:      'AI researcher'
 url:              http://WooJin-Cho.github.io
 baseurl:          ""
-authorImage:      "/images/wj.jpeg"
+authorImage:      "/images/IGARSS_presentation.jpeg"
 # authorImage:      "/images/woojin.jpg"
 # authorImage:      "/images/s3.jpeg"
 
@@ -25,7 +25,7 @@ authorImage:      "/images/wj.jpeg"
 author:
   name:           'Woojin'
   url:            http://WooJin-Cho.github.io
-  email:          snowmoon@yonsei.ac.kr
+  email:          woojin.py@gmail.com
 paginate:         5
 
 # Custom vars

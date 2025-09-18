@@ -6,7 +6,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-  <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
@@ -15,17 +14,14 @@
     
   </title>
 
-  <!-- CSS -->
   <link rel="stylesheet" href="public/css/poole.css">
   <link rel="stylesheet" href="public/css/syntax.css">
   <link rel="stylesheet" href="public/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
-  <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-144-precomposed.png">
                                  <link rel="shortcut icon" href="public/favicon.ico">
 
-  <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>
 
@@ -40,12 +36,12 @@
           Woojin
         </a>
       </h1>
-      <p class="lead">Graduate student   @Yonsei university</p>
+      <p class="lead">AI researcher</p>
     </div>
 
     
     <div class="author-image">
-      <img src="/images/wj.jpeg" alt="Author Image" class="author-image">
+      <img src="/images/icml_presentation.jpeg" alt="Author Image" class="author-image">
     </div>
   
     
@@ -77,18 +73,80 @@
       
         
       
-      <a class="sidebar-nav-item" href="https://drive.google.com/file/d/1hGqC8PV0CKh8l3WU6W6E7EKLlHUJxwSA/view?usp=sharing">🔭 CV</a>
-      <!-- <a class="sidebar-nav-item" href="https://github.com/WooJin-Cho/archive/v2.1.0.zip">Download</a> -->
+      <a class="sidebar-nav-item" href="https://drive.google.com/file/d/1MfdTL6ZQRrkBntw8VkqJtLuaOsz7TirQ/view?usp=sharing">🔭 CV</a>
       <a class="sidebar-nav-item" href="https://www.linkedin.com/in/woojin-cho-02b905264/">📋 Linkedin</a>
       <a class="sidebar-nav-item" href="https://github.com/WooJin-Cho">💻 GitHub page</a>
       <a class="sidebar-nav-item" href="https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=cqIj5tQAAAAJ">🔬 Google scholar</a>
-      <!-- <span class="sidebar-nav-item">Currently v2.1.0</span> -->
     </nav>
 
-    <p>&copy; 2024. All rights reserved.</p>
+    <p>&copy; 2025. All rights reserved.</p>
   </div>
 </div>
 
+    <nav class="top-navbar">
+  <div class="navbar-container">
+    <div class="navbar-nav">
+      <a href="#about" class="nav-item">About</a>
+      <a href="#publication" class="nav-item">Publication</a>
+      <a href="#education" class="nav-item">Education</a>
+      <a href="#career" class="nav-item">Career</a>
+      <a href="#academic-activities" class="nav-item">Academic Activities</a>
+      <a href="#invited-talk" class="nav-item">Invited Talk</a>
+      <a href="#scholarship" class="nav-item">Scholarship</a>
+    </div>
+  </div>
+</nav>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const navItems = document.querySelectorAll('.nav-item[href^="#"]');
+  const sections = document.querySelectorAll('section[id]');
+  
+  
+  navItems.forEach(item => {
+    item.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href').substring(1);
+      const targetSection = document.getElementById(targetId);
+      
+      if (targetSection) {
+        const navbarHeight = document.querySelector('.top-navbar').offsetHeight;
+        const offset = navbarHeight + 20; 
+        const targetPosition = targetSection.offsetTop - offset;
+        
+        window.scrollTo({
+          top: targetPosition,
+          behavior: 'smooth'
+        });
+      }
+    });
+  });
+  
+  function updateActiveNav() {
+    let current = '';
+    const navbarHeight = document.querySelector('.top-navbar').offsetHeight;
+    const scrollOffset = navbarHeight + 50; 
+    
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop - scrollOffset;
+      const sectionHeight = section.offsetHeight;
+      if (window.scrollY >= sectionTop && window.scrollY < sectionTop + sectionHeight) {
+        current = section.getAttribute('id');
+      }
+    });
+    
+    navItems.forEach(item => {
+      item.classList.remove('active');
+      if (item.getAttribute('href') === '#' + current) {
+        item.classList.add('active');
+      }
+    });
+  }
+  
+  window.addEventListener('scroll', updateActiveNav);
+  updateActiveNav(); 
+});
+</script> 
 
     <div class="content container">
       <div class="page">

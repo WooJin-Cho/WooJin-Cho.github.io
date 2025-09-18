@@ -1,0 +1,64 @@
+<nav class="top-navbar">
+  <div class="navbar-container">
+    <div class="navbar-nav">
+      <a href="#about" class="nav-item">About</a>
+      <a href="#publication" class="nav-item">Publication</a>
+      <a href="#education" class="nav-item">Education</a>
+      <a href="#career" class="nav-item">Career</a>
+      <a href="#academic-activities" class="nav-item">Academic Activities</a>
+      <a href="#invited-talk" class="nav-item">Invited Talk</a>
+      <a href="#scholarship" class="nav-item">Scholarship</a>
+    </div>
+  </div>
+</nav>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const navItems = document.querySelectorAll('.nav-item[href^="#"]');
+  const sections = document.querySelectorAll('section[id]');
+  
+  
+  navItems.forEach(item => {
+    item.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href').substring(1);
+      const targetSection = document.getElementById(targetId);
+      
+      if (targetSection) {
+        const navbarHeight = document.querySelector('.top-navbar').offsetHeight;
+        const offset = navbarHeight + 20; 
+        const targetPosition = targetSection.offsetTop - offset;
+        
+        window.scrollTo({
+          top: targetPosition,
+          behavior: 'smooth'
+        });
+      }
+    });
+  });
+  
+  function updateActiveNav() {
+    let current = '';
+    const navbarHeight = document.querySelector('.top-navbar').offsetHeight;
+    const scrollOffset = navbarHeight + 50; 
+    
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop - scrollOffset;
+      const sectionHeight = section.offsetHeight;
+      if (window.scrollY >= sectionTop && window.scrollY < sectionTop + sectionHeight) {
+        current = section.getAttribute('id');
+      }
+    });
+    
+    navItems.forEach(item => {
+      item.classList.remove('active');
+      if (item.getAttribute('href') === '#' + current) {
+        item.classList.add('active');
+      }
+    });
+  }
+  
+  window.addEventListener('scroll', updateActiveNav);
+  updateActiveNav(); 
+});
+</script> 
