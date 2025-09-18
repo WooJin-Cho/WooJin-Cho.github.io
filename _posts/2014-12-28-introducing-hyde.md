@@ -21,12 +21,49 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 ## Publication
 
 <div class="content-with-image">
-  <img src="../images/coming_soon.png" class="inline-image">
+  <img src="../images/preprint_astra.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_drift.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        DRIFT: Dynamics-aware Robust Inference with Latent Filtering for Temporal Satellite Pose Estimation
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_piano.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_structure.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Meta-learning Structure-Preserving Dynamics
     </span><br>
+    <span style="font-size: 18px; color: silver">
+      C Jing, U Mudiyanselage, <strong>W Cho</strong>,  M Jo, A Gruber, K Lee
+    </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+    <a href="https://arxiv.org/pdf/2508.11205" target="_blank">[Paper]</a>
   </p>
 </div>
 
@@ -355,4 +392,5 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 

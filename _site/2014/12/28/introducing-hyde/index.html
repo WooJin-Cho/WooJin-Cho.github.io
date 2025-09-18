@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+       &middot; Woojin
+    
+  </title>
+
+  <link rel="stylesheet" href="public/css/poole.css">
+  <link rel="stylesheet" href="public/css/syntax.css">
+  <link rel="stylesheet" href="public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="public/favicon.ico">
+
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="">
+          Woojin
+        </a>
+      </h1>
+      <p class="lead">AI researcher</p>
+    </div>
+
+    
+    <div class="author-image">
+      <img src="/images/icml_presentation.jpeg" alt="Author Image" class="author-image">
+    </div>
+  
+    
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="">⭐️ Home</a>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+      
+      <a class="sidebar-nav-item" href="https://drive.google.com/file/d/1MfdTL6ZQRrkBntw8VkqJtLuaOsz7TirQ/view?usp=sharing">🔭 CV</a>
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/woojin-cho-02b905264/">📋 Linkedin</a>
+      <a class="sidebar-nav-item" href="https://github.com/WooJin-Cho">💻 GitHub page</a>
+      <a class="sidebar-nav-item" href="https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=cqIj5tQAAAAJ">🔬 Google scholar</a>
+    </nav>
+
+    <p>&copy; 2025. All rights reserved.</p>
+  </div>
+</div>
+
+    <nav class="top-navbar">
+  <div class="navbar-container">
+    <div class="navbar-nav">
+      <a href="#about" class="nav-item">About</a>
+      <a href="#publication" class="nav-item">Publication</a>
+      <a href="#education" class="nav-item">Education</a>
+      <a href="#career" class="nav-item">Career</a>
+      <a href="#academic-activities" class="nav-item">Academic Activities</a>
+      <a href="#invited-talk" class="nav-item">Invited Talk</a>
+      <a href="#scholarship" class="nav-item">Scholarship</a>
+    </div>
+  </div>
+</nav>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const navItems = document.querySelectorAll('.nav-item[href^="#"]');
+  const sections = document.querySelectorAll('section[id]');
+  
+  
+  navItems.forEach(item => {
+    item.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href').substring(1);
+      const targetSection = document.getElementById(targetId);
+      
+      if (targetSection) {
+        const navbarHeight = document.querySelector('.top-navbar').offsetHeight;
+        const offset = navbarHeight + 20; 
+        const targetPosition = targetSection.offsetTop - offset;
+        
+        window.scrollTo({
+          top: targetPosition,
+          behavior: 'smooth'
+        });
+      }
+    });
+  });
+  
+  function updateActiveNav() {
+    let current = '';
+    const navbarHeight = document.querySelector('.top-navbar').offsetHeight;
+    const scrollOffset = navbarHeight + 50; 
+    
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop - scrollOffset;
+      const sectionHeight = section.offsetHeight;
+      if (window.scrollY >= sectionTop && window.scrollY < sectionTop + sectionHeight) {
+        current = section.getAttribute('id');
+      }
+    });
+    
+    navItems.forEach(item => {
+      item.classList.remove('active');
+      if (item.getAttribute('href') === '#' + current) {
+        item.classList.add('active');
+      }
+    });
+  }
+  
+  window.addEventListener('scroll', updateActiveNav);
+  updateActiveNav(); 
+});
+</script> 
+
+    <div class="content container">
+      <div class="post">
+  <h1 class="post-title"></h1>
+  <span class="post-date">28 Dec 2014</span>
+  <section id="about">
+
+  <h2 id="about">About</h2>
+
+  <p>I am currently an AI researcher at <a href="https://telepix.net/">TelePIX</a> <strong>(Alternative military service: Technical research personnel)</strong>.
+I completed my M.S. degree advised by <a href="https://sites.google.com/view/noseong">Prof.Noseong Park</a>  <a href="https://sites.google.com/view/npark/home">(Bigdata Analytics Lab)</a> in the Department of Artificial Intelligence at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a> and continue to collaborate closely on research. My primary research areas include scientific machine learning, foundation model, implicit neural representations (INR) and satellite technology. Additionally, I have an interest in deep learning frameworks based on meta-learning, pruning and data compression method. In the future, I aspire to research related to simulation techniques by combining numerical analysis methods with scientific ML technologies (e.g., Physics-informed neural networks, Neural operator, etc.). I have a goal to build an artificial intelligence that can be interpreted mathematically and statistically.</p>
+
+  <p><strong>I greatly enjoy collaborating with researchers who share similar interests. If you are interested in my research areas or would like to collaborate, please feel free to contact me! (<a href="mailto:woojin.py@gmail.com">woojin.py@gmail.com</a>)</strong></p>
+
+</section>
+
+<hr />
+
+<section id="publication">
+
+  <h2 id="publication">Publication</h2>
+
+  <div class="content-with-image">
+  <img src="../images/coming_soon.png" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Meta-learning Structure-Preserving Dynamics
+    </span><br />
+    <span style="font-size: 20px; color: gray">(Under review)</span><br />
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_PDEfuncta.png" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+      M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
+    </span><br />
+    <span style="font-size: 20px; color: gray">(Under review)</span><br />
+    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">[Paper]</a> 
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_mad.JPG" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        MaD-Scientist: AI-based Scientist solving Parabolic PDEs using Massive Prior Data
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+        M Kang, D Lee, <strong>W Cho</strong>, J Park, K Lee, A Gruber, Y Hong, N Park
+    </span><br />
+    <span style="font-size: 20px; color: gray">(Under review)</span><br />
+    <a href="https://arxiv.org/pdf/2410.06442" target="_blank">[Paper]</a> 
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_fourier.png" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
+    </span><br />
+    <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 20px; color: blue">(Oral)</span></strong><br />
+    <a href="https://arxiv.org/pdf/2506.01234" target="_blank">[Paper]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_lrnr.png" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        FastLRNR and Sparse Physics Informed Backpropagation
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho</strong>, K Lee, N Park, D Rim, G Welper
+    </span><br />
+    <strong>Results in Applied Mathematics 2025</strong><br />
+    <a href="https://arxiv.org/pdf/2410.04001" target="_blank">[Paper]</a> 
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_nert.jpg" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Neural Functions for Learning Periodic Signal
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
+    </span><br />
+    <strong>ICLR 2025</strong><br />
+    <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">[Paper]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_wsl.png" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+        U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
+    </span><br />
+    <strong>ICLR 2025 Workshop on Weight Space Learning</strong><br />
+    <a href="https://openreview.net/forum?id=d2tuf1C8Vm" target="_blank">[Openreview]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_rs_inpainting.png" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+        S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
+    </span><br />
+    <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 20px; color: blue">(Best Paper)</span></strong><br />
+    <a href="  https://www.arxiv.org/pdf/2503.03785" target="_blank">[Paper]</a>
+    <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">[Code]</a>
+    <a href="https://rspaint.steveimm.id/" target="_blank">[Project]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_mad.JPG" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy data?
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+        M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
+    </span><br />
+    <strong>NeurIPS 2024 Workshop on Foundation Models for Science</strong><br />
+    <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">[Paper]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_implisat.png" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Neural Compression for Multispectral Satellite Images
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
+    </span><br />
+    <strong>NeurIPS 2024 Workshop on Machine Learning and Compression</strong><br />
+    <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">[Paper]</a>
+    <a href="https://github.com/SteveImmanuel/implisat" target="_blank">[Code]</a>
+    <a href="https://steveimmanuel.github.io/implisat/" target="_blank">[Project]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/preprint_ndde.jpg" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Promoting Sparsity In Continuous-Time Models To Learn Delayed Dependence Structures
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+      F Wu, <strong>W Cho</strong>, D Korotky, S Hong, D Rim, N Park, K Lee
+    </span><br />
+    <strong>CIKM 2024</strong><br />
+    <a href="https://openreview.net/pdf?id=2pAdYVCbU9" target="_blank">[Paper]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/ICML_2024_p2inn.jpg" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+      <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
+    </span><br />
+    <strong>ICML 2024 <span style="font-size: 20px; color: blue">(Oral, Top 1.52%)</span></strong><br /> 
+    <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">[Paper]</a>
+    <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
+    <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">[Presentation]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/ICLR_2024_workshop_p2inn.jpg" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Extension of Physics-informed Neural Networks to Solving Parameterized PDEs
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+      <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
+    </span><br />
+    <strong>ICLR 2024 Workshop on AI4DifferentialEquations in Science</strong><br /> 
+    <a href="https://openreview.net/forum?id=EAkRlHFLBc&amp;referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1" target="_blank">[Paper]</a>
+    <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/ICLR_2024_graph.jpg" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+      Y Yu, J Choi, <strong>W Cho</strong>, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park
+    </span><br />
+    <strong>ICLR 2024</strong><br /> 
+    <a href="https://arxiv.org/abs/2312.12467" target="_blank">[Paper]</a>
+    <a href="https://github.com/yuyudeep/hcmt" target="_blank">[Code]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/AAAI_2024_bfno.jpg" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+      Operator-learning-inspired Modeling of Neural Ordinary Differential Equations
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+      <strong>W Cho<sup>*</sup></strong>, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park
+    </span><br />
+    <strong>AAAI 2024</strong><br /> 
+    <a href="https://arxiv.org/abs/2312.10274" target="_blank">[Paper]</a>
+    <a href="https://github.com/WooJin-Cho/BFNO-NODE" target="_blank">[Code]</a>
+  </p>
+</div>
+
+  <div class="content-with-image">
+  <img src="../images/NeurIPS_2023_hyper.jpg" class="inline-image" />
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks
+    </span><br />
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho</strong>, K Lee, D Rim, N Park
+    </span><br />
+    <strong>NeurIPS 2023 <span style="font-size: 20px; color: blue">(Spotlight, Top 3.06%)</span></strong><br />
+    <a href="https://arxiv.org/abs/2310.09528" target="_blank">[Paper]</a>
+    <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">[Code]</a>
+  </p>
+</div>
+
+</section>
+
+<p> 
+ </p>
+
+<hr />
+
+<section id="education">
+
+  <h2 id="education">Education</h2>
+
+  <ul>
+    <li><strong>Yonsei University</strong>
+      <blockquote>
+        <p>M.S in Artificial Intelligence</p>
+      </blockquote>
+    </li>
+    <li><strong>Yonsei University</strong>
+      <blockquote>
+        <p>B.S in Atmospheric science<br />
+B.S in Electrical electronic engineering</p>
+      </blockquote>
+    </li>
+    <li><strong>Sejong Science High School</strong></li>
+  </ul>
+
+</section>
+
+<hr />
+
+<section id="career">
+
+  <h2 id="career">Career</h2>
+
+  <ul>
+    <li><strong><a href="https://www.telepix.net/">Telepix</a></strong> ( Jun 2024 - Present )
+      <blockquote>
+        <p>AI research team (Alternative military service)</p>
+      </blockquote>
+    </li>
+    <li><strong>Arizona State University</strong> ( Jan 2024 - Jun 2024 )
+      <blockquote>
+        <p>Visiting Researcher (hosted by <a href="https://klee44.github.io/">Prof.Kookjin Lee</a>)</p>
+      </blockquote>
+    </li>
+  </ul>
+
+</section>
+
+<hr />
+
+<section id="academic-activities">
+
+  <h2 id="academic-activities">Academic Activities</h2>
+
+  <h4 id="reviewer-or-program-committee-member-for-conference">Reviewer or Program Committee Member for Conference</h4>
+  <ul>
+    <li>Conference on Neural Information Processing Systems (<a href="https://neurips.cc/">NeurIPS</a>)</li>
+    <li>International Conference on Machine Learning (<a href="https://icml.cc/">ICML</a>)</li>
+  </ul>
+
+  <h4 id="esa-nasa-international-workshop-on-ai-foundation-model-for-earth-observation"><a href="https://nikal.eventsair.com/cmspreview/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/">ESA-NASA International Workshop on AI Foundation Model for Earth Observation</a></h4>
+  <ul>
+    <li>A Unified Framework for Multi-resolution and Multi-spectral Satellite Imagery in Foundation Model Training (First author)</li>
+    <li>Multi-modal Foundation Model for EO and SAR Images (First author)</li>
+  </ul>
+
+</section>
+
+<hr />
+
+<section id="invited-talk">
+
+  <h2 id="invited-talk">Invited Talk</h2>
+
+  <ul>
+    <li>AI for Computational Science and Space Exploration (hosted by <a href="https://www.postech.ac.kr/eng/index.do">Postech</a>, <a href="https://effl.postech.ac.kr/">EFFL</a>)</li>
+    <li>Scientific Machine Learning (hosted by <a href="https://kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720231223-0002&amp;menuNo=408014&amp;schoolsCd=&amp;centrspgmsCd=AI&amp;sdate=2024-01-01&amp;edate=&amp;mjrcdnm=&amp;searchCnd=1&amp;searchWord=&amp;pageIndex=1">KIAS</a>)</li>
+    <li>Parameterized Physics-informed Neural Networks for Parameterized PDEs (hosted by <a href="https://www.kc-ml2.com/">ML2</a>)</li>
+    <li>Latest Trends in Machine Learning based Physics Simulation (hosted by <a href="https://www.samsung.com/">Samsung Electronics</a>)</li>
+    <li>Physics-informed Neural Networks for Solving PDEs (hosted by <a href="https://www.alsemy.com/">Alsemy</a>)</li>
+  </ul>
+
+</section>
+
+<hr />
+
+<section id="scholarship">
+
+  <h2 id="scholarship">Scholarship</h2>
+
+  <ul>
+    <li><a href="https://icml.cc/Conferences/2024/FinancialAid">ICML Financial Aid</a>: 2024</li>
+    <li><a href="https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships">Google Conference Scholarship</a>: 2024</li>
+    <li><a href="https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/">AAAI Scholarship</a>: 2024</li>
+    <li><a href="http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do">ILJU Academy and Culture Foundation</a> : 2019-2022</li>
+  </ul>
+
+</section>
+
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+  </ul>
+</div>
+
+    </div>
+
+  </body>
+</html>
