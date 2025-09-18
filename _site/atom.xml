@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Woojin</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-08-12T14:38:15+09:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Woojin</name>
+   <email>snowmoon@yonsei.ac.kr</email>
+ </author>
+
+ 
+ <entry>
+   <title>Woojin Cho</title>
+   <link href="http://localhost:4000/2014/12/28/introducing-hyde/"/>
+   <updated>2014-12-28T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2014/12/28/introducing-hyde</id>
+   <content type="html">&lt;p&gt;I am a M.S. student advised by &lt;a href=&quot;https://sites.google.com/view/noseong&quot;&gt;Prof.Noseong Park&lt;/a&gt;  &lt;a href=&quot;https://sites.google.com/view/npark/home&quot;&gt;(Bigdata Analytics Lab)&lt;/a&gt; in the Department of Artificial Intelligence at &lt;a href=&quot;https://www.yonsei.ac.kr/en_sc/&quot;&gt;Yonsei University&lt;/a&gt;. My primary research areas include scientific machine learning, foundation model and implicit neural representations (INR). Additionally, I have an interest in deep learning frameworks based on meta-learning, pruning and data compression method. In the future, I aspire to research related to simulation techniques by combining numerical analysis methods with scientific ML technologies (e.g., Physics-informed neural networks, Neural operator, etc.). I have a goal to build an artificial intelligence that can be interpreted mathematically and statistically. 
+&lt;strong&gt;I greatly enjoy collaborating with researchers who share similar interests. If you are interested in my research areas or would like to collaborate, please feel free to contact me! (&lt;a href=&quot;mailto:snowmoon@yonsei.ac.kr&quot;&gt;snowmoon@yonsei.ac.kr&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;publication&quot;&gt;Publication&lt;/h2&gt;
+
+&lt;div class=&quot;content-with-image&quot;&gt;
+  &lt;img src=&quot;../images/coming_soon.png&quot; alt=&quot;Example Image&quot; class=&quot;inline-image&quot; /&gt;
+  &lt;p&gt;
+    &lt;span style=&quot;font-family:&apos;Times New Roman&apos;; font-size: 20px; color: black&quot;&gt;
+        Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 18px; color: silver&quot;&gt;
+        U Mudiyanselage, &lt;strong&gt;W Cho&lt;/strong&gt;, M Jo, N Park, K Lee
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 20px; color: gray&quot;&gt;(Under review)&lt;/span&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content-with-image&quot;&gt;
+  &lt;img src=&quot;../images/preprint_nert.jpg&quot; alt=&quot;Example Image&quot; class=&quot;inline-image&quot; /&gt;
+  &lt;p&gt;
+    &lt;span style=&quot;font-family:&apos;Times New Roman&apos;; font-size: 20px; color: black&quot;&gt;
+        NeRT: Implicit Neural Representation for Time Series    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 18px; color: silver&quot;&gt;
+        &lt;strong&gt;W Cho&lt;sup&gt;*&lt;/sup&gt;&lt;/strong&gt;, M Jo&lt;sup&gt;*&lt;/sup&gt;, K Lee, D Rim, N Park
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 20px; color: gray&quot;&gt;(Under review)&lt;/span&gt;
+    &lt;a href=&quot;https://openreview.net/pdf?id=FpElWzxzu4&quot; target=&quot;_blank&quot;&gt;[Paper]&lt;/a&gt; 
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content-with-image&quot;&gt;
+  &lt;img src=&quot;../images/preprint_ndde.jpg&quot; alt=&quot;Example Image&quot; class=&quot;inline-image&quot; /&gt;
+  &lt;p&gt;
+    &lt;span style=&quot;font-family:&apos;Times New Roman&apos;; font-size: 20px; color: black&quot;&gt;
+        Promoting Sparsity In Continuous-Time Models To Learn Delayed Dependence Structures    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 18px; color: silver&quot;&gt;
+      F Wu, &lt;strong&gt;W Cho&lt;/strong&gt;, D Korotky, S Hong, D Rim, N Park, K Lee
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;strong&gt;CIKM 2024 &lt;/strong&gt; 
+    &lt;a href=&quot;https://openreview.net/pdf?id=2pAdYVCbU9&quot; target=&quot;_blank&quot;&gt;[Paper]&lt;/a&gt; 
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content-with-image&quot;&gt;
+  &lt;img src=&quot;../images/ICML_2024_p2inn.jpg&quot; alt=&quot;Example Image&quot; class=&quot;inline-image&quot; /&gt;
+  &lt;p&gt;
+    &lt;span style=&quot;font-family:&apos;Times New Roman&apos;; font-size: 20px; color: black&quot;&gt;
+        Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 18px; color: silver&quot;&gt;
+      &lt;strong&gt;W Cho&lt;/strong&gt;, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;strong&gt;ICML 2024  &lt;span style=&quot;font-size: 18px; color: blue&quot;&gt;(Oral, Top 1.52%)&lt;/span&gt; &lt;/strong&gt; 
+    &lt;a href=&quot;https://openreview.net/pdf/fe697f398d9b1f2050ed2f5ebd2a000a77a89546.pdf&quot; target=&quot;_blank&quot;&gt;[Paper]&lt;/a&gt; 
+    &lt;a href=&quot;https://icml.cc/virtual/2024/session/35281&quot; target=&quot;_blank&quot;&gt;[Presentation]&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content-with-image&quot;&gt;
+  &lt;img src=&quot;../images/ICLR_2024_workshop_p2inn.jpg&quot; alt=&quot;Example Image&quot; class=&quot;inline-image&quot; /&gt;
+  &lt;p&gt;
+    &lt;span style=&quot;font-family:&apos;Times New Roman&apos;; font-size: 20px; color: black&quot;&gt;
+        Extension of Physics-informed Neural Networks to Solving Parameterized PDEs    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 18px; color: silver&quot;&gt;
+      &lt;strong&gt;W Cho&lt;/strong&gt;, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;strong&gt;ICLR 2024 workshop&lt;/strong&gt; 
+    &lt;a href=&quot;https://openreview.net/forum?id=EAkRlHFLBc&amp;amp;referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1&quot; target=&quot;_blank&quot;&gt;[Paper]&lt;/a&gt; 
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content-with-image&quot;&gt;
+  &lt;img src=&quot;../images/ICLR_2024_graph.jpg&quot; alt=&quot;Example Image&quot; class=&quot;inline-image&quot; /&gt;
+  &lt;p&gt;
+    &lt;span style=&quot;font-family:&apos;Times New Roman&apos;; font-size: 20px; color: black&quot;&gt;
+      Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 18px; color: silver&quot;&gt;
+      Y Yu, J Choi, &lt;strong&gt;W Cho&lt;/strong&gt;, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;strong&gt;ICLR 2024&lt;/strong&gt; 
+    &lt;a href=&quot;https://arxiv.org/abs/2312.12467&quot; target=&quot;_blank&quot;&gt;[Paper]&lt;/a&gt; 
+    &lt;a href=&quot;https://github.com/yuyudeep/hcmt&quot; target=&quot;_blank&quot;&gt;[Code]&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content-with-image&quot;&gt;
+  &lt;img src=&quot;../images/AAAI_2024_bfno.jpg&quot; alt=&quot;Example Image&quot; class=&quot;inline-image&quot; /&gt;
+  &lt;p&gt;
+    &lt;span style=&quot;font-family:&apos;Times New Roman&apos;; font-size: 20px; color: black&quot;&gt;
+      Operator-learning-inspired Modeling of Neural Ordinary Differential Equations
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 18px; color: silver&quot;&gt;
+      &lt;strong&gt;W Cho&lt;sup&gt;*&lt;/sup&gt;&lt;/strong&gt;, S Cho&lt;sup&gt;*&lt;/sup&gt;, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;strong&gt;AAAI 2024&lt;/strong&gt; 
+    &lt;a href=&quot;https://arxiv.org/abs/2312.10274&quot; target=&quot;_blank&quot;&gt;[Paper]&lt;/a&gt; 
+    &lt;a href=&quot;https://github.com/WooJin-Cho/BFNO-NODE&quot; target=&quot;_blank&quot;&gt;[Code]&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;content-with-image&quot;&gt;
+  &lt;img src=&quot;../images/NeurIPS_2023_hyper.jpg&quot; class=&quot;inline-image&quot; /&gt;
+  &lt;p&gt;
+    &lt;span style=&quot;font-family:&apos;Times New Roman&apos;; font-size: 20px; color: black&quot;&gt;
+        Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks    &lt;/span&gt;&lt;br /&gt;
+    &lt;span style=&quot;font-size: 18px; color: silver&quot;&gt;
+        &lt;strong&gt;W Cho&lt;/strong&gt;, K Lee, D Rim, N Park
+    &lt;/span&gt;&lt;br /&gt;
+    &lt;strong&gt;NeurIPS 2023  &lt;span style=&quot;font-size: 18px; color: blue&quot;&gt;(Spotlight, Top 3.06%)&lt;/span&gt;&lt;/strong&gt;
+    &lt;a href=&quot;https://arxiv.org/abs/2310.09528&quot; target=&quot;_blank&quot;&gt;[Paper]&lt;/a&gt; 
+    &lt;a href=&quot;https://github.com/WooJin-Cho/Hyper-LR-PINN&quot; target=&quot;_blank&quot;&gt;[Code]&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt; 
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Yonsei University&lt;/strong&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;M.S in Artificial Intelligence (Present)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yonsei University&lt;/strong&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;B.S in Atmospheric science&lt;br /&gt;
+B.S in Electrical electronic engineering&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sejong Science High School&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;career&quot;&gt;Career&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.telepix.net/&quot;&gt;Telepix&lt;/a&gt;&lt;/strong&gt; ( Jun 2024 - Present )
+    &lt;blockquote&gt;
+      &lt;p&gt;AI research team (Alternative military service)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Arizona State University&lt;/strong&gt; ( Jan 2024 - Jun 2024 )
+    &lt;blockquote&gt;
+      &lt;p&gt;Visiting Researcher (hosted by &lt;a href=&quot;https://klee44.github.io/&quot;&gt;Prof.Kookjin Lee&lt;/a&gt;)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;invited-talk&quot;&gt;Invited Talk&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Scientific Machine Learning (hosted by &lt;a href=&quot;https://www.kias.re.kr/kias/main/main.do&quot;&gt;KIAS&lt;/a&gt;) &lt;a href=&quot;https://kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720231223-0002&amp;amp;menuNo=408014&amp;amp;schoolsCd=&amp;amp;centrspgmsCd=AI&amp;amp;sdate=2024-01-01&amp;amp;edate=&amp;amp;mjrcdnm=&amp;amp;searchCnd=1&amp;amp;searchWord=&amp;amp;pageIndex=1&quot;&gt;[Link]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Latest Trends in Machine Learning based Physics Simulation (hosted by &lt;a href=&quot;https://www.samsung.com/sec/&quot;&gt;Samsung electronics&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;AI for Parameterized PDEs (hosted by &lt;a href=&quot;https://www.kc-ml2.com/&quot;&gt;ML2&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Parameterized Physics-informed Neural Networks for Parameterized PDEs (hosted by &lt;a href=&quot;https://www.alsemy.com/&quot;&gt;Alsemy&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;scholarship&quot;&gt;Scholarship&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ICML 2024 Financial Aid &lt;a href=&quot;https://icml.cc/Conferences/2024/FinancialAid&quot;&gt;[Link]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Google Conference Scholarship &lt;a href=&quot;https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships&quot;&gt;[Link]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;AAAI 2024 Scholarship &lt;a href=&quot;https://aaai.org/aaai-conference/aaai-24-student-scholarhip-volunteer-program/&quot;&gt;[Link]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ILJU Academy and Culture Foundation &lt;a href=&quot;http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do&quot;&gt;[Link]&lt;/a&gt; (2019-2022)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+
+</feed>
