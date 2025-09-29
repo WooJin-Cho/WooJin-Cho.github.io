@@ -8,9 +8,10 @@ title: ""
 ## About
 
 I am currently an AI researcher at [TelePIX](https://telepix.net/) **(Alternative military service: Technical research personnel)**.
-I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.com/view/noseong)  [(Bigdata Analytics Lab)](https://sites.google.com/view/npark/home) in the Department of Artificial Intelligence at [Yonsei University](https://www.yonsei.ac.kr/en_sc/) and continue to collaborate closely on research. My primary research areas include scientific machine learning, foundation model, implicit neural representations (INR) and satellite technology. Additionally, I have an interest in deep learning frameworks based on meta-learning, pruning and data compression method. In the future, I aspire to research related to simulation techniques by combining numerical analysis methods with scientific ML technologies (e.g., Physics-informed neural networks, Neural operator, etc.). I have a goal to build an artificial intelligence that can be interpreted mathematically and statistically. 
+I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc/) (Department of Artificial Intelligence), advised by [Prof.Noseong Park](https://sites.google.com/view/noseong) in the  [Bigdata Analytics Lab](https://sites.google.com/view/npark/home) (now at [KAIST](https://www.kaist.ac.kr/en/)), and continue to collaborate closely on research. My primary research areas include scientific machine learning, foundation model, implicit neural representations (INR) and satellite technology. I also interested in deep learning frameworks based on meta-learning, and data compression method. 
+Looking ahead, I aim to advance physics simulation techniques that combine numerical analysis with scientific ML (e.g., physics-informed neural networks and neural operators), ultimately building AI systems taht are mathematically and statistically interpretable.
 
-**I greatly enjoy collaborating with researchers who share similar interests. If you are interested in my research areas or would like to collaborate, please feel free to contact me! ([woojin.py@gmail.com](mailto:woojin.py@gmail.com))**
+**I greatly enjoy collaborating with researchers who share similar interests. If you are interested in my research areas or would like to collaborate, please feel free to contact me!([woojin.py@gmail.com](mailto:woojin.py@gmail.com))**
 
 </section>
 
@@ -396,6 +397,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
