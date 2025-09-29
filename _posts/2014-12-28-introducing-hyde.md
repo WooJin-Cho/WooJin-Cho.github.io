@@ -202,7 +202,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-    <strong>NeurIPS 2024 Workshop on Machine Learning and Compression</strong><br/>
+    <strong>NeurIPS Workshop 2024</strong><br/>
     <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">[Paper]</a>
     <a href="https://github.com/SteveImmanuel/implisat" target="_blank">[Code]</a>
     <a href="https://steveimmanuel.github.io/implisat/" target="_blank">[Project]</a>
@@ -395,6 +395,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
