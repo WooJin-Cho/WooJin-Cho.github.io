@@ -327,14 +327,14 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 ## Education
 
-* **Yonsei University**  
+* **Yonsei University** (Aug. 2024)
 > M.S in Artificial Intelligence
 
-* **Yonsei University**  
+* **Yonsei University** (Aug. 2022)
 >B.S in Atmospheric science  
 >B.S in Electrical electronic engineering
 
-* **Sejong Science High School**
+* **Sejong Science High School** (Feb. 2017)
 
 </section>
 
@@ -344,10 +344,10 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 ## Career
 
-* **[Telepix](https://www.telepix.net/)** ( Jun 2024 - Present )  
+* **[Telepix](https://www.telepix.net/)** ( Jun. 2024 - Present )  
 > AI research team (Alternative military service)
 
-* **Arizona State University** ( Jan 2024 - Jun 2024 )  
+* **Arizona State University** ( Jan. 2024 - Jun. 2024 )  
 > Visiting Researcher (hosted by [Prof.Kookjin Lee](https://klee44.github.io/))
 
 </section>
@@ -358,9 +358,10 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 ## Academic Activities
 
-#### Reviewer or Program Committee Member for Conference
+#### Conference Reviewer
 * Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/))
 * International Conference on Machine Learning ([ICML](https://icml.cc/))
+* International Conference on Learning Representations ([ICLR](https://iclr.cc/))
 
 
 #### [ESA-NASA International Workshop on AI Foundation Model for Earth Observation](https://nikal.eventsair.com/cmspreview/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/)
@@ -395,6 +396,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
