@@ -21,7 +21,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 ## Publication
 
 <div class="content-with-image">
-  <img src="../images/preprint_astra.png" class="inline-image">
+  <img src="../images/preprint_astra.pdf" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking
@@ -36,17 +36,6 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         DRIFT: Dynamics-aware Robust Inference with Latent Filtering for Temporal Satellite Pose Estimation
-    </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_piano.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting
     </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
@@ -69,21 +58,6 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_PDEfuncta.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
-    </span><br>
-    <span style="font-size: 18px; color: silver">
-      M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
-    </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">[Paper]</a> 
-  </p>
-</div>
-
-
-<div class="content-with-image">
   <img src="../images/preprint_mad.JPG" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -99,6 +73,35 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 
 
 <div class="content-with-image">
+  <img src="../images/preprint_PDEfuncta.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+      M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
+    </span><br>
+    <strong>NeurIPS 2025</strong><br/>
+    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">[Paper]</a> 
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_piano.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+      S Chin, <strong>W Cho</strong>,  J Park
+    </span><br>
+    <strong>NeurIPS Workshop 2025 </strong><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_fourier.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -107,7 +110,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-    <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 20px; color: blue">(Oral)</span></strong><br/>
+    <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 18px; color: blue">(Oral)</span></strong><br/>
     <a href="https://arxiv.org/pdf/2506.01234" target="_blank">[Paper]</a>
   </p>
 </div>
@@ -152,7 +155,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
     </span><br>
-    <strong>ICLR 2025 Workshop on Weight Space Learning</strong><br/>
+    <strong>ICLR Workshop 2025</strong><br/>
     <a href="https://openreview.net/forum?id=d2tuf1C8Vm" target="_blank">[Openreview]</a>
   </p>
 </div>
@@ -167,7 +170,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
     </span><br>
-    <strong>ICLR 2025 Workshop on Machine Learning for Remote Sensing <span style="font-size: 20px; color: blue">(Best Paper)</span></strong><br/>
+    <strong>ICLR Workshop 2025<span style="font-size: 18px; color: blue">(Best Paper)</span></strong><br/>
     <a href="  https://www.arxiv.org/pdf/2503.03785" target="_blank">[Paper]</a>
     <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">[Code]</a>
     <a href="https://rspaint.steveimm.id/" target="_blank">[Project]</a>
@@ -184,7 +187,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
     </span><br>
-    <strong>NeurIPS 2024 Workshop on Foundation Models for Science</strong><br/>
+    <strong>NeurIPS Workshop 2024 </strong><br/>
     <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">[Paper]</a>
   </p>
 </div>
@@ -231,7 +234,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICML 2024 <span style="font-size: 20px; color: blue">(Oral, Top 1.52%)</span></strong><br/> 
+    <strong>ICML 2024 <span style="font-size: 18px; color: blue">(Oral, Top 1.52%)</span></strong><br/> 
     <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
     <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">[Presentation]</a>
@@ -248,7 +251,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICLR 2024 Workshop on AI4DifferentialEquations in Science</strong><br/> 
+    <strong>ICLR Workshop 2024</strong><br/> 
     <a href="https://openreview.net/forum?id=EAkRlHFLBc&referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">[Code]</a>
   </p>
@@ -296,7 +299,7 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
     <span style="font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, D Rim, N Park
     </span><br>
-    <strong>NeurIPS 2023 <span style="font-size: 20px; color: blue">(Spotlight, Top 3.06%)</span></strong><br/>
+    <strong>NeurIPS 2023 <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong><br/>
     <a href="https://arxiv.org/abs/2310.09528" target="_blank">[Paper]</a>
     <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">[Code]</a>
   </p>
@@ -392,5 +395,6 @@ I completed my M.S. degree advised by [Prof.Noseong Park](https://sites.google.c
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
