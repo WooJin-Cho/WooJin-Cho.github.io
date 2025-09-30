@@ -27,6 +27,9 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking
     </span><br>
+    <span style="font-size: 18px; color: silver">
+      <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>, S Immanuel, S Chin, J Wang
+    </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
 </div>
@@ -37,6 +40,9 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         DRIFT: Dynamics-aware Robust Inference with Latent Filtering for Temporal Satellite Pose Estimation
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+      J Park<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, J Park, D Kwon
     </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
@@ -397,6 +403,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
