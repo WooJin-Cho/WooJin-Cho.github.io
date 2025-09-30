@@ -133,21 +133,6 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_nert.jpg" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Neural Functions for Learning Periodic Signal
-    </span><br>
-    <span style="font-size: 18px; color: silver">
-        <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
-    </span><br>
-    <strong>ICLR 2025</strong><br/>
-    <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">[Paper]</a>
-  </p>
-</div>
-
-
-<div class="content-with-image">
   <img src="../images/preprint_wsl.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -175,6 +160,21 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
     <a href="  https://www.arxiv.org/pdf/2503.03785" target="_blank">[Paper]</a>
     <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">[Code]</a>
     <a href="https://rspaint.steveimm.id/" target="_blank">[Project]</a>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_nert.jpg" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Neural Functions for Learning Periodic Signal
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
+    </span><br>
+    <strong>ICLR 2025</strong><br/>
+    <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">[Paper]</a>
   </p>
 </div>
 
@@ -345,7 +345,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 
 ## Career
 
-* **[Telepix](https://www.telepix.net/)** ( Jun. 2024 - Present )  
+* **[Telepix](https://telepix.net/)** ( Jun. 2024 - Present )  
 > AI research team (Alternative military service)
 
 * **Arizona State University** ( Jan. 2024 - Jun. 2024 )  
@@ -397,6 +397,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
