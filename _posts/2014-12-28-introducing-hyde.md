@@ -21,6 +21,22 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 
 ## Publication
 
+
+<div class="content-with-image">
+  <img src="../images/preprint_wave.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Learning Low Rank Neural Representations of Hyperbolic Wave Dynamics from Data
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        <strong>W Cho</strong>, K Lee, N Park, D Rim, G Welper
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+    <a href="https://arxiv.org/pdf/2510.25123" target="_blank">[Paper]</a> 
+  </p>
+</div>
+
+
 <div class="content-with-image">
   <img src="../images/preprint_astra.png" class="inline-image">
   <p>
@@ -403,6 +419,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
