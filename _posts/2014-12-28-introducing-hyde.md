@@ -21,6 +21,19 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 
 ## Publication
 
+<div class="content-with-image">
+  <img src="../images/preprint_BOLT.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Basis-Oriented Low-rank Transfer for Few-Shot and Test-Time Adaptation
+    </span><br>
+    <span style="font-size: 18px; color: silver">
+        J Park, <strong>W Cho</strong>, J Heo, D Kwon, K Lee
+    </span><br>
+    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
 
 <div class="content-with-image">
   <img src="../images/preprint_wave.png" class="inline-image">
@@ -420,6 +433,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
