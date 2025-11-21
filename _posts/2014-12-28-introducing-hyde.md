@@ -130,7 +130,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
         PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting
     </span><br>
     <span style="font-size: 18px; color: silver">
-      S Chin, <strong>W Cho</strong>,  J Park
+      S Chin,  J Park, <strong>W Cho</strong>
     </span><br>
     <strong>NeurIPS Workshop 2025 </strong><br/>
   </p>
@@ -433,6 +433,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
