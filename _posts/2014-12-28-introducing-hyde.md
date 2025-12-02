@@ -399,7 +399,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/))
 * International Conference on Machine Learning ([ICML](https://icml.cc/))
 * International Conference on Learning Representations ([ICLR](https://iclr.cc/))
-
+* Conference on Computer Vision and Pattern Recognition ([CVPR](https://cvpr.thecvf.com/))
 
 #### [ESA-NASA International Workshop on AI Foundation Model for Earth Observation](https://nikal.eventsair.com/cmspreview/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/)
 * A Unified Framework for Multi-resolution and Multi-spectral Satellite Imagery in Foundation Model Training (First author)
@@ -434,6 +434,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
