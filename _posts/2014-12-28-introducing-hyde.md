@@ -413,9 +413,9 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 
 ## Invited Talk
 
-* AI for Science: Physics-informed Machine Learning and the Road to Scientific Foundation Models (hoted by [ETRI](https://www.etri.re.kr/))
+* Physics-informed Machine Learning and the Road to Scientific Foundation Models (hoted by [ETRI: Electronics and Telecommunications Research Institute](https://www.etri.re.kr/))
 * AI for Computational Science and Space Exploration (hosted by [Postech](https://www.postech.ac.kr/eng/index.do), [EFFL](https://effl.postech.ac.kr/))
-* Scientific Machine Learning (hosted by [KIAS](https://kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720231223-0002&menuNo=408014&schoolsCd=&centrspgmsCd=AI&sdate=2024-01-01&edate=&mjrcdnm=&searchCnd=1&searchWord=&pageIndex=1))
+* Scientific Machine Learning (hosted by [KIAS:Korea Institute For Advanced Study](https://kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720231223-0002&menuNo=408014&schoolsCd=&centrspgmsCd=AI&sdate=2024-01-01&edate=&mjrcdnm=&searchCnd=1&searchWord=&pageIndex=1))
 * Parameterized Physics-informed Neural Networks for Parameterized PDEs (hosted by [ML2](https://www.kc-ml2.com/))
 * Latest Trends in Machine Learning based Physics Simulation (hosted by [Samsung Electronics](https://www.samsung.com/))
 * Physics-informed Neural Networks for Solving PDEs (hosted by [Alsemy](https://www.alsemy.com/))
@@ -434,6 +434,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
