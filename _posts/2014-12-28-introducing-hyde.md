@@ -134,6 +134,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
       S Chin,  J Park, <strong>W Cho</strong>
     </span><br>
     <strong>NeurIPS Workshop 2025 </strong><br/>
+    <a href="https://www.arxiv.org/pdf/2512.01062" target="_blank">[Paper]</a>
   </p>
 </div>
 
@@ -435,6 +436,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
