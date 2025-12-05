@@ -31,6 +31,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
         J Park, <strong>W Cho</strong>, J Heo, D Kwon, K Lee
     </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+    <a href="https://arxiv.org/pdf/2512.02441" target="_blank">[Paper]</a> 
   </p>
 </div>
 
@@ -434,6 +435,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
