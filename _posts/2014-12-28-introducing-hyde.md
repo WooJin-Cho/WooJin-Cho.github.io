@@ -8,8 +8,7 @@ title: ""
 ## About
 
 I am currently an AI researcher at [TelePIX](https://telepix.net/) **(Alternative military service: Technical research personnel)**.
-I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc/) (Department of Artificial Intelligence), advised by [Prof.Noseong Park](https://sites.google.com/view/noseong) in the  [Bigdata Analytics Lab](https://sites.google.com/view/npark/home) (now at [KAIST](https://www.kaist.ac.kr/en/)), and continue to collaborate closely on research. My primary research areas include scientific machine learning, foundation model, implicit neural representations (INR) and satellite technology. I also interested in deep learning frameworks based on meta-learning, and data compression method. 
-Looking ahead, I aim to advance physics simulation techniques that combine numerical analysis with scientific ML (e.g., physics-informed neural networks and neural operators), ultimately building AI systems taht are mathematically and statistically interpretable.
+I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc/) (Department of Artificial Intelligence), advised by [Prof.Noseong Park](https://sites.google.com/view/noseong) (now at [KAIST](https://www.kaist.ac.kr/en/)). My primary research areas lie in scientific machine learning (SciML), physics-based modeling, with a focus on implicit neural representations and neural operators for high-dimensional scientific data. I also work on operator-based foundation models and AI systems for Earth observation and satellite applications. Broadly, I aim to develop numerically grounded and mathematically interpretable simulation and PDE-consistent learning frameworks that integrate numerical analysis with modern SciML.
 
 **I greatly enjoy collaborating with researchers who share similar interests. If you are interested in my research areas or would like to collaborate, please feel free to contact me!([woojin.py@gmail.com](mailto:woojin.py@gmail.com))**
 
@@ -436,6 +435,7 @@ Looking ahead, I aim to advance physics simulation techniques that combine numer
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
