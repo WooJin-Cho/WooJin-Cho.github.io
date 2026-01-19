@@ -145,10 +145,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
     </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-      <strong>NeurIPS 2025</strong><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS 2025</strong>
     </span><br/>
-    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">[Paper]</a> 
+    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">Paper</a> 
   </p>
 </div>
 
@@ -162,7 +161,8 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       S Chin,  J Park, <strong>W Cho</strong>
     </span><br>
-    <strong>NeurIPS Workshop 2025 </strong><br/>
+        <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2025</strong>
+    </span><br/>
     <a href="https://www.arxiv.org/pdf/2512.01062" target="_blank">[Paper]</a>
   </p>
 </div>
@@ -177,7 +177,8 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-    <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 18px; color: blue">(Oral)</span></strong><br/>
+            <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 18px; color: blue">(Oral)</span></strong>
+    </span><br/>
     <a href="https://arxiv.org/pdf/2506.01234" target="_blank">[Paper]</a>
   </p>
 </div>
@@ -465,6 +466,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
