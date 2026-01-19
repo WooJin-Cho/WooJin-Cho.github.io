@@ -21,6 +21,20 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 ## Publication
 
 <div class="content-with-image">
+  <img src="../images/preprint_elmzip.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        ELMZip: Onboard Satellite Image Compression via Extreme Learning Machines for Efficient Downlink
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        <strong>W Cho</strong>, J Park, S Sim, S Immanuel, J Heo, D Kwon
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_BOLT.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -435,6 +449,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
