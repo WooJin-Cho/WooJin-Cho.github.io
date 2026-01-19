@@ -220,8 +220,8 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
     </span><br>
-    <strong>ICLR Workshop 2025<span style="font-size: 18px; color: blue">(Best Paper)</span></strong><br/>
-    <a href="  https://www.arxiv.org/pdf/2503.03785" target="_blank">Paper</a>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR Workshop 2025<span style="font-size: 18px; color: blue">(Best Paper)</span></strong></span><br/>
+    <a href="https://www.arxiv.org/pdf/2503.03785" target="_blank">Paper</a>
     <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">Code</a>
     <a href="https://rspaint.steveimm.id/" target="_blank">Project</a>
   </p>
@@ -237,7 +237,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
     </span><br>
-    <strong>ICLR 2025</strong><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR 2025</strong></span><br/>
     <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">Paper</a>
     <a href="https://github.com/WooJin-Cho/NeRT" target="_blank">Code</a>
   </p>
@@ -253,7 +253,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
     </span><br>
-    <strong>NeurIPS Workshop 2024 </strong><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2024 </strong></span><br/>
     <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">Paper</a>
   </p>
 </div>
@@ -268,7 +268,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-    <strong>NeurIPS Workshop 2024</strong><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2024</strong></span><br/>
     <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">Paper</a>
     <a href="https://github.com/SteveImmanuel/implisat" target="_blank">Code</a>
     <a href="https://steveimmanuel.github.io/implisat/" target="_blank">Project</a>
@@ -285,7 +285,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       F Wu, <strong>W Cho</strong>, D Korotky, S Hong, D Rim, N Park, K Lee
     </span><br>
-    <strong>CIKM 2024</strong><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>CIKM 2024</strong></span><br/>
     <a href="https://openreview.net/pdf?id=2pAdYVCbU9" target="_blank">Paper</a>
   </p>
 </div>
@@ -463,6 +463,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
