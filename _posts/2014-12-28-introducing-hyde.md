@@ -175,7 +175,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
-            <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 18px; color: blue">(Oral)</span></strong></span><br/>
+            <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 20px; color: blue">(Oral)</span></strong></span><br/>
     <a href="https://arxiv.org/pdf/2506.01234" target="_blank">Paper</a>
   </p>
 </div>
@@ -220,7 +220,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
     </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR Workshop 2025<span style="font-size: 18px; color: blue">(Best Paper)</span></strong></span><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR Workshop 2025 <span style="font-size: 20px; color: blue">(Best Paper)</span></strong></span><br/>
     <a href="https://www.arxiv.org/pdf/2503.03785" target="_blank">Paper</a>
     <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">Code</a>
     <a href="https://rspaint.steveimm.id/" target="_blank">Project</a>
@@ -300,7 +300,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICML 2024 <span style="font-size: 18px; color: blue">(Oral, Top 1.52%)</span></strong></span><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICML 2024 <span style="font-size: 20px; color: blue">(Oral, Top 1.52%)</span></strong></span><br/>
     <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">Paper</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">Code</a>
     <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">Presentation</a>
@@ -365,7 +365,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, D Rim, N Park
     </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>NeurIPS 2023 <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong></span><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>NeurIPS 2023 <span style="font-size: 20px; color: blue">(Spotlight, Top 3.06%)</span></strong></span><br/>
     <a href="https://arxiv.org/abs/2310.09528" target="_blank">Paper</a>
     <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">Code</a>
   </p>
@@ -463,6 +463,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
