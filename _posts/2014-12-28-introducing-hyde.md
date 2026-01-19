@@ -35,15 +35,29 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 
 <div class="content-with-image">
+  <img src="../images/preprint_onboardvlm.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Summarize First, Download Later: Onboard VLMs for Bandwidth-Efficient Earth Observation
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        J Park, S Sim, <strong>W Cho</strong>, D Kwon
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_BOLT.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Basis-Oriented Low-rank Transfer for Few-Shot and Test-Time Adaptation
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         J Park, <strong>W Cho</strong>, J Heo, D Kwon, K Lee
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
     <a href="https://arxiv.org/pdf/2512.02441" target="_blank">[Paper]</a> 
   </p>
 </div>
@@ -55,11 +69,11 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Learning Low Rank Neural Representations of Hyperbolic Wave Dynamics from Data
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, N Park, D Rim, G Welper
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://arxiv.org/pdf/2510.25123" target="_blank">[Paper]</a> 
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
+    <a href="https://arxiv.org/pdf/2510.25123" target="_blank">Paper</a> 
   </p>
 </div>
 
@@ -70,10 +84,10 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>, S Immanuel, S Chin, J Wang
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
 </div>
 
@@ -84,10 +98,10 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         DRIFT: Dynamics-aware Robust Inference with Latent Filtering for Temporal Satellite Pose Estimation
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       J Park<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, J Park, D Kwon
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
 </div>
 
@@ -98,7 +112,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Meta-learning Structure-Preserving Dynamics
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       C Jing, U Mudiyanselage, <strong>W Cho</strong>,  M Jo, A Gruber, K Lee
     </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
@@ -113,7 +127,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         MaD-Scientist: AI-based Scientist solving Parabolic PDEs using Massive Prior Data
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, J Park, K Lee, A Gruber, Y Hong, N Park
     </span><br>
     <span style="font-size: 20px; color: gray">(Under review)</span><br/>
@@ -128,7 +142,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
     </span><br>
     <strong>NeurIPS 2025</strong><br/>
@@ -143,7 +157,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       S Chin,  J Park, <strong>W Cho</strong>
     </span><br>
     <strong>NeurIPS Workshop 2025 </strong><br/>
@@ -158,7 +172,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
     <strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 18px; color: blue">(Oral)</span></strong><br/>
@@ -173,7 +187,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         FastLRNR and Sparse Physics Informed Backpropagation
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, N Park, D Rim, G Welper
     </span><br>
     <strong>Results in Applied Mathematics 2025</strong><br/>
@@ -188,7 +202,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
     </span><br>
     <strong>ICLR Workshop 2025</strong><br/>
@@ -203,7 +217,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
     </span><br>
     <strong>ICLR Workshop 2025<span style="font-size: 18px; color: blue">(Best Paper)</span></strong><br/>
@@ -220,7 +234,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Neural Functions for Learning Periodic Signal
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
     </span><br>
     <strong>ICLR 2025</strong><br/>
@@ -236,7 +250,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy data?
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
     </span><br>
     <strong>NeurIPS Workshop 2024 </strong><br/>
@@ -251,7 +265,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Neural Compression for Multispectral Satellite Images
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
     <strong>NeurIPS Workshop 2024</strong><br/>
@@ -268,7 +282,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Promoting Sparsity In Continuous-Time Models To Learn Delayed Dependence Structures
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       F Wu, <strong>W Cho</strong>, D Korotky, S Hong, D Rim, N Park, K Lee
     </span><br>
     <strong>CIKM 2024</strong><br/>
@@ -283,7 +297,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Parameterized Physics-informed Neural Networks for Solving Parameterized PDEs
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
     <strong>ICML 2024 <span style="font-size: 18px; color: blue">(Oral, Top 1.52%)</span></strong><br/> 
@@ -300,7 +314,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Extension of Physics-informed Neural Networks to Solving Parameterized PDEs
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
     <strong>ICLR Workshop 2024</strong><br/> 
@@ -316,7 +330,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       Y Yu, J Choi, <strong>W Cho</strong>, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park
     </span><br>
     <strong>ICLR 2024</strong><br/> 
@@ -332,7 +346,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
       Operator-learning-inspired Modeling of Neural Ordinary Differential Equations
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       <strong>W Cho<sup>*</sup></strong>, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park
     </span><br>
     <strong>AAAI 2024</strong><br/> 
@@ -348,7 +362,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
         Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks
     </span><br>
-    <span style="font-size: 18px; color: silver">
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, D Rim, N Park
     </span><br>
     <strong>NeurIPS 2023 <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong><br/>
@@ -449,6 +463,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
