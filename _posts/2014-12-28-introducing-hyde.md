@@ -300,7 +300,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICML 2024 <span style="font-size: 18px; color: blue">(Oral, Top 1.52%)</span></strong><br/> 
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICML 2024 <span style="font-size: 18px; color: blue">(Oral, Top 1.52%)</span></strong></span><br/>
     <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">Paper</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">Code</a>
     <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">Presentation</a>
@@ -317,7 +317,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
-    <strong>ICLR Workshop 2024</strong><br/> 
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICLR Workshop 2024</strong></span><br/>
     <a href="https://openreview.net/forum?id=EAkRlHFLBc&referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1" target="_blank">Paper</a>
     <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">Code</a>
   </p>
@@ -333,7 +333,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       Y Yu, J Choi, <strong>W Cho</strong>, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park
     </span><br>
-    <strong>ICLR 2024</strong><br/> 
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICLR 2024</strong></span><br/>
     <a href="https://arxiv.org/abs/2312.12467" target="_blank">Paper</a>
     <a href="https://github.com/yuyudeep/hcmt" target="_blank">Code</a>
   </p>
@@ -349,7 +349,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       <strong>W Cho<sup>*</sup></strong>, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park
     </span><br>
-    <strong>AAAI 2024</strong><br/> 
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>AAAI 2024</strong></span><br/>
     <a href="https://arxiv.org/abs/2312.10274" target="_blank">Paper</a>
     <a href="https://github.com/WooJin-Cho/BFNO-NODE" target="_blank">Code</a>
   </p>
@@ -365,7 +365,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         <strong>W Cho</strong>, K Lee, D Rim, N Park
     </span><br>
-    <strong>NeurIPS 2023 <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>NeurIPS 2023 <span style="font-size: 18px; color: blue">(Spotlight, Top 3.06%)</span></strong></span><br/>
     <a href="https://arxiv.org/abs/2310.09528" target="_blank">Paper</a>
     <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">Code</a>
   </p>
@@ -463,6 +463,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
