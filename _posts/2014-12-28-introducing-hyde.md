@@ -58,7 +58,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         J Park, <strong>W Cho</strong>, J Heo, D Kwon, K Lee
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://arxiv.org/pdf/2512.02441" target="_blank">[Paper]</a> 
+    <a href="https://arxiv.org/pdf/2512.02441" target="_blank">Paper</a> 
   </p>
 </div>
 
@@ -115,8 +115,8 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       C Jing, U Mudiyanselage, <strong>W Cho</strong>,  M Jo, A Gruber, K Lee
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://arxiv.org/pdf/2508.11205" target="_blank">[Paper]</a>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
+    <a href="https://arxiv.org/pdf/2508.11205" target="_blank">Paper</a>
   </p>
 </div>
 
@@ -130,7 +130,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         M Kang, D Lee, <strong>W Cho</strong>, J Park, K Lee, A Gruber, Y Hong, N Park
     </span><br>
-    <span style="font-size: 20px; color: gray">(Under review)</span><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
     <a href="https://arxiv.org/pdf/2410.06442" target="_blank">[Paper]</a> 
   </p>
 </div>
@@ -145,7 +145,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
     </span><br>
-    <strong>NeurIPS 2025</strong><br/>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+      <strong>NeurIPS 2025</strong><br/>
+    </span><br/>
     <a href="https://arxiv.org/pdf/2506.12790" target="_blank">[Paper]</a> 
   </p>
 </div>
@@ -463,6 +465,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
