@@ -21,13 +21,13 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 ## Publication
 
 <div class="content-with-image">
-  <img src="../images/preprint_elmzip.png" class="inline-image">
+  <img src="../images/preprint_elm_inr.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        ELMZip: Onboard Satellite Image Compression via Extreme Learning Machines for Efficient Downlink
+        Escaping Spectral Bias without Backpropagation: Fast Implicit Neural Representations with Extreme Learning Machines
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-        <strong>W Cho</strong>, J Park, S Sim, S Immanuel, J Heo, D Kwon
+        <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
@@ -42,6 +42,20 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         J Park, S Sim, <strong>W Cho</strong>, D Kwon
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_elmzip.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        ELMZip: Onboard Satellite Image Compression via Extreme Learning Machines for Efficient Downlink
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        <strong>W Cho</strong>, J Park, S Sim, S Immanuel, J Heo, D Kwon
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
@@ -464,6 +478,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
