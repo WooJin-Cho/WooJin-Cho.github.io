@@ -63,21 +63,6 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_BOLT.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Basis-Oriented Low-rank Transfer for Few-Shot and Test-Time Adaptation
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-        J Park, <strong>W Cho</strong>, J Heo, D Kwon, K Lee
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://arxiv.org/pdf/2512.02441" target="_blank">Paper</a> 
-  </p>
-</div>
-
-
-<div class="content-with-image">
   <img src="../images/preprint_wave.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -146,6 +131,21 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
     <a href="https://arxiv.org/pdf/2410.06442" target="_blank">Paper</a> 
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_BOLT.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Basis-Oriented Low-rank Transfer for Few-Shot and Test-Time Adaptation
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        J Park, <strong>W Cho</strong>, J Heo, D Kwon, K Lee
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>CVPR 2026</strong></span><br/>
+    <a href="https://arxiv.org/pdf/2512.02441" target="_blank">Paper</a> 
   </p>
 </div>
 
@@ -478,6 +478,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
