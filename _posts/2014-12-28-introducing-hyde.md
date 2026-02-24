@@ -511,6 +511,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 ## Invited Talk
 
+* AI for Science: Learning Scientific Signals via Implicit Neural Representations (hoted by [Solver X](https://www.solverx.ai/))
 * Physics-informed Machine Learning and the Road to Scientific Foundation Models (hoted by [ETRI](https://www.etri.re.kr/eng/main/main.etri))
 * AI for Computational Science and Space Exploration (hosted by [Postech](https://www.postech.ac.kr/eng/index.do), [EFFL](https://effl.postech.ac.kr/))
 * Scientific Machine Learning (hosted by [KIAS: Korea Institute For Advanced Study](https://kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720231223-0002&menuNo=408014&schoolsCd=&centrspgmsCd=AI&sdate=2024-01-01&edate=&mjrcdnm=&searchCnd=1&searchWord=&pageIndex=1))
@@ -532,3 +533,4 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
