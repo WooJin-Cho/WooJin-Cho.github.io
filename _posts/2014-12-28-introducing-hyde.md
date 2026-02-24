@@ -30,6 +30,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
+    <a href="https://www.arxiv.org/pdf/2602.07603" target="_blank">Paper</a>
   </p>
 </div>
 
@@ -478,6 +479,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
+
 
 
 
