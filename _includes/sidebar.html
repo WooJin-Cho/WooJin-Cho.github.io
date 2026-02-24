@@ -17,7 +17,9 @@
     
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">⭐️ Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">
+        <i class="fa-solid fa-telescope"></i> Home
+      </a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -32,10 +34,19 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item" href="https://drive.google.com/file/d/1EC59lY61ZhOQ_Z-MEgPw0aoc-d7mzld2/view?usp=sharing">🔭 CV</a>
-      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/woojin-cho-02b905264/">📋 Linkedin</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">💻 GitHub page</a>
-      <a class="sidebar-nav-item" href="https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=cqIj5tQAAAAJ">🔬 Google scholar</a>
+
+      <a class="sidebar-nav-item" href="https://drive.google.com/file/d/1EC59lY61ZhOQ_Z-MEgPw0aoc-d7mzld2/view?usp=sharing">
+        <i class="fa-regular fa-file-pdf"></i> CV
+      </a>
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/woojin-cho-02b905264/">
+        <i class="fa-brands fa-linkedin"></i> Linkedin
+      </a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">
+        <i class="fa-brands fa-github"></i> GitHub page
+      </a>
+      <a class="sidebar-nav-item" href="https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=cqIj5tQAAAAJ">
+        <i class="fa-solid fa-graduation-cap"></i> Google scholar
+      </a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
