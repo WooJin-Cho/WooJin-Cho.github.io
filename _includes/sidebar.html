@@ -1,37 +1,43 @@
-<nav class="sidebar-nav">
-  <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">
-    <i class="fa-solid fa-house"></i> Home
-  </a>
-
-  {% comment %}
-    The code below dynamically generates a sidebar nav of pages with
-    `layout: page` in the front-matter. See readme for usage.
-  {% endcomment %}
-
-  {% assign pages_list = site.pages %}
-  {% for node in pages_list %}
-    {% if node.title != null %}
-      {% if node.layout == "page" %}
-        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
-          {{ node.title }}
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
         </a>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
 
-  <a class="sidebar-nav-item" href="https://drive.google.com/file/d/1EC59lY61ZhOQ_Z-MEgPw0aoc-d7mzld2/view?usp=sharing">
-    <i class="fa-regular fa-id-badge"></i> CV
-  </a>
+    {{ with .Site.Params.authorimage }}
+    <div class="author-image">
+      <img src="{{site.authorImage}}" alt="Author Image" class="author-image">
+    </div>
+  {{end}}
+    
 
-  <a class="sidebar-nav-item" href="https://www.linkedin.com/in/woojin-cho-02b905264/">
-    <i class="fa-brands fa-linkedin"></i> LinkedIn
-  </a>
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">⭐️ Home</a>
 
-  <a class="sidebar-nav-item" href="{{ site.github.repo }}">
-    <i class="fa-brands fa-github"></i> GitHub
-  </a>
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
 
-  <a class="sidebar-nav-item" href="https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=cqIj5tQAAAAJ">
-    <i class="fa-solid fa-graduation-cap"></i> Google Scholar
-  </a>
-</nav>
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <a class="sidebar-nav-item" href="https://drive.google.com/file/d/1EC59lY61ZhOQ_Z-MEgPw0aoc-d7mzld2/view?usp=sharing">🔭 CV</a>
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/woojin-cho-02b905264/">📋 Linkedin</a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">💻 GitHub page</a>
+      <a class="sidebar-nav-item" href="https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=cqIj5tQAAAAJ">🔬 Google scholar</a>
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>
