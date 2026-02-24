@@ -30,7 +30,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://www.arxiv.org/pdf/2602.07603" target="_blank">Paper</a>
+    <a href="https://www.arxiv.org/pdf/2602.07603" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
   </p>
 </div>
 
@@ -73,7 +75,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         <strong>W Cho</strong>, K Lee, N Park, D Rim, G Welper
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://arxiv.org/pdf/2510.25123" target="_blank">Paper</a> 
+    <a href="https://arxiv.org/pdf/2510.25123" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a> 
   </p>
 </div>
 
@@ -116,7 +120,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
       C Jing, U Mudiyanselage, <strong>W Cho</strong>,  M Jo, A Gruber, K Lee
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://arxiv.org/pdf/2508.11205" target="_blank">Paper</a>
+    <a href="https://arxiv.org/pdf/2508.11205" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
   </p>
 </div>
 
@@ -131,7 +137,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         M Kang, D Lee, <strong>W Cho</strong>, J Park, K Lee, A Gruber, Y Hong, N Park
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://arxiv.org/pdf/2410.06442" target="_blank">Paper</a> 
+    <a href="https://arxiv.org/pdf/2410.06442" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a> 
   </p>
 </div>
 
@@ -146,7 +154,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         J Park, <strong>W Cho</strong>, J Heo, D Kwon, K Lee
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>CVPR 2026</strong></span><br/>
-    <a href="https://arxiv.org/pdf/2512.02441" target="_blank">Paper</a> 
+    <a href="https://arxiv.org/pdf/2512.02441" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a> 
   </p>
 </div>
 
@@ -161,7 +171,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
       M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS 2025</strong></span><br/>
-    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">Paper</a> 
+    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a> 
   </p>
 </div>
 
@@ -176,7 +188,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
       S Chin,  J Park, <strong>W Cho</strong>
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2025</strong></span><br/>
-    <a href="https://www.arxiv.org/pdf/2512.01062" target="_blank">Paper</a>
+    <a href="https://www.arxiv.org/pdf/2512.01062" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
   </p>
 </div>
 
@@ -191,8 +205,12 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
             <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 20px; color: blue">(Oral)</span></strong></span><br/>
-    <a href="https://arxiv.org/pdf/2506.01234" target="_blank">Paper</a>
-    <a href="https://github.com/SteveImmanuel/implisat" target="_blank">Code</a>
+    <a href="https://arxiv.org/pdf/2506.01234" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/SteveImmanuel/implisat" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
   </p>
 </div>
 
@@ -207,7 +225,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         <strong>W Cho</strong>, K Lee, N Park, D Rim, G Welper
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>Results in Applied Mathematics 2025</strong></span><br/>
-    <a href="https://arxiv.org/pdf/2410.04001" target="_blank">Paper</a> 
+    <a href="https://arxiv.org/pdf/2410.04001" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a> 
   </p>
 </div>
 
@@ -222,7 +242,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR Workshop 2025</strong></span><br/>
-    <a href="https://openreview.net/forum?id=d2tuf1C8Vm" target="_blank">Paper</a>
+    <a href="https://openreview.net/forum?id=d2tuf1C8Vm" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
   </p>
 </div>
 
@@ -237,9 +259,15 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR Workshop 2025 <span style="font-size: 20px; color: blue">(Best Paper)</span></strong></span><br/>
-    <a href="https://www.arxiv.org/pdf/2503.03785" target="_blank">Paper</a>
-    <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">Code</a>
-    <a href="https://rspaint.steveimm.id/" target="_blank">Project</a>
+    <a href="https://www.arxiv.org/pdf/2503.03785" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
+    <a href="https://rspaint.steveimm.id/" target="_blank">
+      <i class="fa-solid fa-globe"></i> Project
+    </a>
   </p>
 </div>
 
@@ -254,8 +282,12 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         <strong>W Cho<sup>*</sup></strong>, M Jo<sup>*</sup>, K Lee, N Park
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR 2025</strong></span><br/>
-    <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">Paper</a>
-    <a href="https://github.com/WooJin-Cho/NeRT" target="_blank">Code</a>
+    <a href="https://openreview.net/pdf?id=GCH5leffZp" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/WooJin-Cho/NeRT" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
   </p>
 </div>
 
@@ -270,7 +302,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2024 </strong></span><br/>
-    <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">Paper</a>
+    <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
   </p>
 </div>
 
@@ -285,9 +319,15 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2024</strong></span><br/>
-    <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">Paper</a>
-    <a href="https://github.com/SteveImmanuel/implisat" target="_blank">Code</a>
-    <a href="https://steveimmanuel.github.io/implisat/" target="_blank">Project</a>
+    <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/SteveImmanuel/implisat" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
+    <a href="https://steveimmanuel.github.io/implisat/" target="_blank">
+      <i class="fa-solid fa-globe"></i> Project
+    </a>
   </p>
 </div>
 
@@ -302,7 +342,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
       F Wu, <strong>W Cho</strong>, D Korotky, S Hong, D Rim, N Park, K Lee
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>CIKM 2024</strong></span><br/>
-    <a href="https://openreview.net/pdf?id=2pAdYVCbU9" target="_blank">Paper</a>
+    <a href="https://openreview.net/pdf?id=2pAdYVCbU9" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
   </p>
 </div>
 
@@ -317,9 +359,15 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICML 2024 <span style="font-size: 20px; color: blue">(Oral, Top 1.52%)</span></strong></span><br/>
-    <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">Paper</a>
-    <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">Code</a>
-    <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">Presentation</a>
+    <a href="https://openreview.net/pdf?id=n3yYrtt9U7" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
+    <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">
+      <i class="fa-regular fa-circle-play"></i> Presentation
+    </a>
   </p>
 </div>
 
@@ -334,8 +382,12 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
       <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICLR Workshop 2024</strong></span><br/>
-    <a href="https://openreview.net/forum?id=EAkRlHFLBc&referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1" target="_blank">Paper</a>
-    <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">Code</a>
+    <a href="https://openreview.net/forum?id=EAkRlHFLBc&referrer=%5Bthe%20profile%20of%20Woojin%20Cho%5D(%2Fprofile%3Fid%3D~Woojin_Cho1" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
   </p>
 </div>
 
@@ -350,8 +402,12 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
       Y Yu, J Choi, <strong>W Cho</strong>, K Lee, N Kim, K Chang, C Woo, I Kim, S Lee, J Yang, S Yoon, N Park
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICLR 2024</strong></span><br/>
-    <a href="https://arxiv.org/abs/2312.12467" target="_blank">Paper</a>
-    <a href="https://github.com/yuyudeep/hcmt" target="_blank">Code</a>
+    <a href="https://arxiv.org/abs/2312.12467" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/yuyudeep/hcmt" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
   </p>
 </div>
 
@@ -366,8 +422,12 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
       <strong>W Cho<sup>*</sup></strong>, S Cho<sup>*</sup>, H Jin, J Jeon, K Lee, S Hong, D Lee, J Choi, N Park
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>AAAI 2024</strong></span><br/>
-    <a href="https://arxiv.org/abs/2312.10274" target="_blank">Paper</a>
-    <a href="https://github.com/WooJin-Cho/BFNO-NODE" target="_blank">Code</a>
+    <a href="https://arxiv.org/abs/2312.10274" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/WooJin-Cho/BFNO-NODE" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
   </p>
 </div>
 
@@ -382,21 +442,14 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         <strong>W Cho</strong>, K Lee, D Rim, N Park
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>NeurIPS 2023 <span style="font-size: 20px; color: blue">(Spotlight, Top 3.06%)</span></strong></span><br/>
-    <a href="https://arxiv.org/abs/2310.09528" target="_blank">Paper</a>
-    <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">Code</a>
+    <a href="https://arxiv.org/abs/2310.09528" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
   </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 </section>
 
@@ -479,35 +532,3 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 * [ILJU Academy and Culture Foundation](http://www.taekwanggroup.co.kr/homepage/eng/iljuFoundationIntro.do) : 2019-2022
 
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
