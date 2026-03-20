@@ -38,34 +38,6 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_onboardvlm.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Summarize First, Download Later: Onboard VLMs for Bandwidth-Efficient Earth Observation
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-        J Park, S Sim, <strong>W Cho</strong>, D Kwon
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_elmzip.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        ELMZip: Onboard Satellite Image Compression via Extreme Learning Machines for Efficient Downlink
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-        <strong>W Cho</strong>, J Park, S Sim, S Immanuel, J Heo, D Kwon
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-  </p>
-</div>
-
-
-<div class="content-with-image">
   <img src="../images/preprint_wave.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -140,6 +112,34 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <a href="https://arxiv.org/pdf/2410.06442" target="_blank">
       <i class="fa-regular fa-file-lines"></i> Paper
     </a> 
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_onboardvlm.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Summarize First, Download Later: Onboard VLMs for Bandwidth-Efficient Earth Observation
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        J Park, S Sim, <strong>W Cho</strong>, D Kwon
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026</strong></span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_elmzip.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        ELMZip: Onboard Satellite Image Compression via Extreme Learning Machines for Efficient Downlink
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        <strong>W Cho</strong>, J Park, S Sim, S Immanuel, J Heo, D Kwon
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026</strong></span><br/>
   </p>
 </div>
 
