@@ -145,6 +145,20 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 
 <div class="content-with-image">
+  <img src="../images/CVPR_2026_workshop_DRIFT.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Onboard Latent Kalman Filtering for Robust Spacecraft Pose Estimation
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        J Park<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>CVPR Workshop 2026</strong></span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_BOLT.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
