@@ -27,7 +27,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         Platonic Task Arithmetic
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-       J Park<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>
+       J Park, <strong>W Cho</strong>
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
