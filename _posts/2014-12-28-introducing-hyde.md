@@ -136,7 +136,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
       C Jing, U Mudiyanselage, <strong>W Cho</strong>,  M Jo, A Gruber, K Lee
     </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICML 2026</strong></span>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICML 2026</strong></span><br/>
     <a href="https://arxiv.org/pdf/2508.11205" target="_blank">
       <i class="fa-regular fa-file-lines"></i> Paper
     </a>
