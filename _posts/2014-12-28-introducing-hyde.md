@@ -21,6 +21,20 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 ## Publication
 
 <div class="content-with-image">
+  <img src="../images/preprint_platonic.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Platonic Task Arithmetic
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+       J Park<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_elm_inr.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -55,13 +69,13 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_astra.png" class="inline-image">
+  <img src="../images/preprint_ASTRA.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking
+        ASTRA: A Large-Scale Multi-Satellite Benchmark for Onboard 6-DoF Spacecraft Pose Estimation
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-      <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>, S Immanuel, S Chin, J Wang
+      <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>, J Park, S Immanuel, S Chin, J Wang
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
@@ -75,26 +89,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         DRIFT: Dynamics-aware Robust Inference with Latent Filtering for Temporal Satellite Pose Estimation
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-      J Park<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, J Park, D Kwon
+      J Park<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_structure.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Meta-learning Structure-Preserving Dynamics
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-      C Jing, U Mudiyanselage, <strong>W Cho</strong>,  M Jo, A Gruber, K Lee
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
-    <a href="https://arxiv.org/pdf/2508.11205" target="_blank">
-      <i class="fa-regular fa-file-lines"></i> Paper
-    </a>
   </p>
 </div>
 
@@ -112,6 +109,23 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <a href="https://arxiv.org/pdf/2410.06442" target="_blank">
       <i class="fa-regular fa-file-lines"></i> Paper
     </a> 
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_structure.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Meta-learning Structure-Preserving Dynamics
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+      C Jing, U Mudiyanselage, <strong>W Cho</strong>,  M Jo, A Gruber, K Lee
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICML 2026</strong></span>
+    <a href="https://arxiv.org/pdf/2508.11205" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
   </p>
 </div>
 
@@ -140,6 +154,20 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         <strong>W Cho</strong>, J Park, S Sim, S Immanuel, J Heo, D Kwon
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026</strong></span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_astra.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+      <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>, S Immanuel, S Chin, J Wang
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>CVPR Workshop 2026</strong></span><br/>
   </p>
 </div>
 
