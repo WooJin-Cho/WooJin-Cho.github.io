@@ -21,6 +21,20 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 ## Publication
 
 <div class="content-with-image">
+  <img src="../images/preprint_methane.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        FLAME: Physics-Guided Neural Operators for Onboard Satellite Methane Detection in Hyperspectral Imagery
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+       J Heo, J Park, S Sim, B Choi, <strong>W Cho</strong>
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_platonic.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -75,7 +89,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         ASTRA: A Large-Scale Multi-Satellite Benchmark for Onboard 6-DoF Spacecraft Pose Estimation
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-      <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>, J Park, S Immanuel, S Chin, J Wang
+      <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>, S Immanuel, J Park, S Chin, J Wang
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray">(Under review)</span><br/>
   </p>
