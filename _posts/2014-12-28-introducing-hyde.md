@@ -20,6 +20,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 ## Publication
 
+
+### Conference & Journal
+
 <div class="content-with-image">
   <img src="../images/preprint_platonic.png" class="inline-image">
   <p>
@@ -114,23 +117,6 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_methane.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        FLAME: Physics-Guided Neural Operators for Onboard Satellite Methane Detection in Hyperspectral Imagery
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-       J Heo, J Park, S Sim, B Choi, <strong>W Cho</strong>
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray"><strong>ICML Workshop 2026</strong></span><br/>
-    <a href="https://arxiv.org/pdf/2606.01577" target="_blank">
-      <i class="fa-regular fa-file-lines"></i> Paper
-    </a>
-  </p>
-</div>
-
-
-<div class="content-with-image">
   <img src="../images/preprint_structure.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -156,7 +142,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
         J Park, S Sim, <strong>W Cho</strong>, D Kwon
     </span><br>
-            <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025 <span style="font-size: 20px; color: blue">(Oral)</span></strong></span><br/>
+            <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026 <span style="font-size: 20px; color: blue">(Oral)</span></strong></span><br/>
   </p>
 </div>
 
@@ -176,34 +162,6 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 
 <div class="content-with-image">
-  <img src="../images/preprint_astra.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-      <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>, S Immanuel, S Chin, J Wang
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>CVPR Workshop 2026</strong></span><br/>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/CVPR_2026_workshop_DRIFT.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Onboard Latent Kalman Filtering for Robust Spacecraft Pose Estimation
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-        J Park<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>CVPR Workshop 2026</strong></span><br/>
-  </p>
-</div>
-
-
-<div class="content-with-image">
   <img src="../images/preprint_BOLT.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -216,40 +174,6 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <a href="https://arxiv.org/pdf/2512.02441" target="_blank">
       <i class="fa-regular fa-file-lines"></i> Paper
     </a> 
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_PDEfuncta.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-      M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS 2025</strong></span><br/>
-    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">
-      <i class="fa-regular fa-file-lines"></i> Paper
-    </a> 
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_piano.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-      S Chin,  J Park, <strong>W Cho</strong>
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2025</strong></span><br/>
-    <a href="https://www.arxiv.org/pdf/2512.01062" target="_blank">
-      <i class="fa-regular fa-file-lines"></i> Paper
-    </a>
   </p>
 </div>
 
@@ -275,6 +199,23 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
 
 
 <div class="content-with-image">
+  <img src="../images/preprint_PDEfuncta.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+      M Jo<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>, U Mudiyanselage, S Lee, N Park, K Lee
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS 2025</strong></span><br/>
+    <a href="https://arxiv.org/pdf/2506.12790" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a> 
+  </p>
+</div>
+
+
+<div class="content-with-image">
   <img src="../images/preprint_lrnr.png" class="inline-image">
   <p>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
@@ -287,43 +228,6 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <a href="https://arxiv.org/pdf/2410.04001" target="_blank">
       <i class="fa-regular fa-file-lines"></i> Paper
     </a> 
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_wsl.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-        U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR Workshop 2025</strong></span><br/>
-    <a href="https://openreview.net/forum?id=d2tuf1C8Vm" target="_blank">
-      <i class="fa-regular fa-file-lines"></i> Paper
-    </a>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_rs_inpainting.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-        S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR Workshop 2025 <span style="font-size: 20px; color: blue">(Best Paper)</span></strong></span><br/>
-    <a href="https://www.arxiv.org/pdf/2503.03785" target="_blank">
-      <i class="fa-regular fa-file-lines"></i> Paper
-    </a>
-    <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">
-      <i class="fa-brands fa-github"></i> Code
-    </a>
   </p>
 </div>
 
@@ -343,46 +247,6 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     </a>
     <a href="https://github.com/WooJin-Cho/NeRT" target="_blank">
       <i class="fa-brands fa-github"></i> Code
-    </a>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_mad.JPG" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy data?
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-        M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2024 </strong></span><br/>
-    <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">
-      <i class="fa-regular fa-file-lines"></i> Paper
-    </a>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/preprint_implisat.png" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Neural Compression for Multispectral Satellite Images
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-        <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2024</strong></span><br/>
-    <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">
-      <i class="fa-regular fa-file-lines"></i> Paper
-    </a>
-    <a href="https://github.com/SteveImmanuel/implisat" target="_blank">
-      <i class="fa-brands fa-github"></i> Code
-    </a>
-    <a href="https://steveimmanuel.github.io/implisat/" target="_blank">
-      <i class="fa-solid fa-globe"></i> Project
     </a>
   </p>
 </div>
@@ -423,26 +287,6 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     </a>
     <a href="https://icml.cc/virtual/2024/session/35281" target="_blank">
       <i class="fa-regular fa-circle-play"></i> Presentation
-    </a>
-  </p>
-</div>
-
-
-<div class="content-with-image">
-  <img src="../images/ICLR_2024_workshop_p2inn.jpg" class="inline-image">
-  <p>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
-        Extension of Physics-informed Neural Networks to Solving Parameterized PDEs
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-      <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
-    </span><br>
-    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICLR Workshop 2024</strong></span><br/>
-    <a href="https://openreview.net/forum?id=EAkRlHFLBc" target="_blank">
-      <i class="fa-regular fa-file-lines"></i> Paper
-    </a>
-    <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">
-      <i class="fa-brands fa-github"></i> Code
     </a>
   </p>
 </div>
@@ -502,6 +346,167 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
       <i class="fa-regular fa-file-lines"></i> Paper
     </a>
     <a href="https://github.com/WooJin-Cho/Hyper-LR-PINN" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
+  </p>
+</div>
+
+
+### Workshop
+
+<div class="content-with-image">
+  <img src="../images/preprint_methane.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        FLAME: Physics-Guided Neural Operators for Onboard Satellite Methane Detection in Hyperspectral Imagery
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+       J Heo, J Park, S Sim, B Choi, <strong>W Cho</strong>
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: gray"><strong>ICML Workshop 2026</strong></span><br/>
+    <a href="https://arxiv.org/pdf/2606.01577" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_astra.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Sequential Dataset for Satellite Pose Estimation and a Frequency-Space Neural Operator for HIL-Free Generalization Benchmarking
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+      <strong>W Cho<sup>*</sup></strong>, J Park<sup>*</sup>, S Immanuel, S Chin, J Wang
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>CVPR Workshop 2026</strong></span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/CVPR_2026_workshop_DRIFT.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Onboard Latent Kalman Filtering for Robust Spacecraft Pose Estimation
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        J Park<sup>*</sup>, <strong>W Cho<sup>*</sup></strong>
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>CVPR Workshop 2026</strong></span><br/>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_piano.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+      S Chin,  J Park, <strong>W Cho</strong>
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2025</strong></span><br/>
+    <a href="https://www.arxiv.org/pdf/2512.01062" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_wsl.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Unveiling the Potential of Superexpressive Neural Networks in Implicit Neural Representations
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        U Mudiyanselage, <strong>W Cho</strong>, M Jo, N Park, K Lee
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR Workshop 2025</strong></span><br/>
+    <a href="https://openreview.net/forum?id=d2tuf1C8Vm" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_rs_inpainting.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        S Immanuel, <strong>W Cho</strong>, J Heo, D Kwon
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>ICLR Workshop 2025 <span style="font-size: 20px; color: blue">(Best Paper)</span></strong></span><br/>
+    <a href="https://www.arxiv.org/pdf/2503.03785" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/SteveImmanuel/rs-paint" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_mad.JPG" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Can we pre-train ICL-based SFMs for the zero-shot inference of the 1D CDR problem with noisy data?
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        M Kang, D Lee, <strong>W Cho</strong>, K Lee, A Gruber, N Trask, Y Hong, N Park
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2024 </strong></span><br/>
+    <a href="https://openreview.net/pdf/6e57f7c19bea601f663acfc7206f2d654e6e5a01.pdf" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/preprint_implisat.png" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Neural Compression for Multispectral Satellite Images
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+        <strong>W Cho<sup>*</sup></strong>, S Immanuel<sup>*</sup>, J Heo, D Kwon
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2024</strong></span><br/>
+    <a href="https://openreview.net/pdf?id=gk2m2OIKMs" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/SteveImmanuel/implisat" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
+    <a href="https://steveimmanuel.github.io/implisat/" target="_blank">
+      <i class="fa-solid fa-globe"></i> Project
+    </a>
+  </p>
+</div>
+
+
+<div class="content-with-image">
+  <img src="../images/ICLR_2024_workshop_p2inn.jpg" class="inline-image">
+  <p>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black">
+        Extension of Physics-informed Neural Networks to Solving Parameterized PDEs
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
+      <strong>W Cho</strong>, M Jo, H Lim, K Lee, D Lee, S Hong, N Park
+    </span><br>
+    <span style="font-family:'Times New Roman'; font-size: 20px; color: black"> <strong>ICLR Workshop 2024</strong></span><br/>
+    <a href="https://openreview.net/forum?id=EAkRlHFLBc" target="_blank">
+      <i class="fa-regular fa-file-lines"></i> Paper
+    </a>
+    <a href="https://github.com/WooJin-Cho/Parameterized-Physics-informed-Neural-Networks" target="_blank">
       <i class="fa-brands fa-github"></i> Code
     </a>
   </p>
