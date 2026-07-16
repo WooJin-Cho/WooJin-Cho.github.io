@@ -361,7 +361,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         FLAME: Physics-Guided Neural Operators for Onboard Satellite Methane Detection in Hyperspectral Imagery
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-       J Heo, J Park, S Sim, B Choi, <strong>W Cho</strong>
+       J Heo, J Park, S Sim, B Choi, <strong>W Cho<sup>&dagger;</sup></strong>
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: gray"><strong>ICML Workshop 2026</strong></span><br/>
     <a href="https://arxiv.org/pdf/2606.01577" target="_blank">
@@ -406,7 +406,7 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
         PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 18px; color: silver">
-      S Chin,  J Park, <strong>W Cho</strong>
+      S Chin,  J Park, <strong>W Cho<sup>&dagger;</sup></strong>
     </span><br>
     <span style="font-family:'Times New Roman'; font-size: 20px; color: black"><strong>NeurIPS Workshop 2025</strong></span><br/>
     <a href="https://www.arxiv.org/pdf/2512.01062" target="_blank">
