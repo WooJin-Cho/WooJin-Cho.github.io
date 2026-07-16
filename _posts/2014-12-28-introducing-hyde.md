@@ -211,6 +211,9 @@ I completed my M.S. degree at [Yonsei University](https://www.yonsei.ac.kr/en_sc
     <a href="https://arxiv.org/pdf/2506.12790" target="_blank">
       <i class="fa-regular fa-file-lines"></i> Paper
     </a> 
+    <a href="https://github.com/WooJin-Cho/PDEfuncta" target="_blank">
+      <i class="fa-brands fa-github"></i> Code
+    </a>
   </p>
 </div>
 
