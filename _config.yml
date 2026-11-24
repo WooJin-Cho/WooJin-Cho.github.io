@@ -12,8 +12,7 @@ plugins:
 permalink:        pretty
 
 # Setup
-title:            Woojin
-tagline:          '🎹'
+title:            Woojin Cho
 description:      'AI researcher'
 url:              http://WooJin-Cho.github.io
 baseurl:          ""
