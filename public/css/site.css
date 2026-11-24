@@ -314,7 +314,7 @@ section:first-child {
 }
 .sec-head .num {
   font-family: var(--mono);
-  font-size: 14px;
+  font-size: 18px;
   color: var(--accent);
 }
 .sec-head h2 {
