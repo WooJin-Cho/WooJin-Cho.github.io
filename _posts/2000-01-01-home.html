@@ -15,10 +15,28 @@ title: ""
 </section>
 
 <section id="publication">
-  <div class="sec-head"><span class="num">02</span><h2>Publication</h2></div>
+  <div class="sec-head">
+    <span class="num">02</span><h2>Publication</h2>
+    <div class="pub-filter" role="group" aria-label="Filter publications">
+      <button type="button" data-filter="all" aria-pressed="true">All</button>
+      <button type="button" data-filter="conference" aria-pressed="false">Conference &amp; Journal</button>
+      <button type="button" data-filter="workshop" aria-pressed="false">Workshop</button>
+      <button type="button" data-filter="preprint" aria-pressed="false">Preprint</button>
+    </div>
+  </div>
 
-  <div class="sub-head"><h3>Conference &amp; Journal</h3></div>
+  <div class="pub-group" data-cat="preprint">
+  <div class="sub-head"><h3>Preprint</h3></div>
   <div class="pubs">
+
+  <article class="pub">
+    <div class="thumb"><img src="/images/thumbs/ace.jpg" alt="ACE compression comparison" loading="lazy"></div>
+    <div class="pub-body">
+      <h4>ACE: Band-Flexible Earth Observation Compression with Closed-Form Implicit Correction</h4>
+      <p class="authors">J Park, <strong>W Cho</strong></p>
+      <p class="venue review">(Under review)</p>
+    </div>
+  </article>
 
   <article class="pub">
     <div class="thumb"><img src="/images/thumbs/r2no.jpg" alt="Retain-and-repair loop" loading="lazy"></div>
@@ -57,6 +75,13 @@ title: ""
       <p class="venue review">(Under review)</p>
     </div>
   </article>
+
+  </div>
+  </div>
+
+  <div class="pub-group" data-cat="conference">
+  <div class="sub-head"><h3>Conference &amp; Journal</h3></div>
+  <div class="pubs">
 
   <article class="pub">
     <div class="thumb"><img src="/images/thumbs/elm_inr.jpg" alt="Closed-form INR on the sphere" loading="lazy"></div>
@@ -219,7 +244,9 @@ title: ""
   </article>
 
   </div>
+  </div>
 
+  <div class="pub-group" data-cat="workshop">
   <div class="sub-head"><h3>Workshop</h3></div>
   <div class="pubs">
 
@@ -323,6 +350,7 @@ title: ""
     </div>
   </article>
 
+  </div>
   </div>
   <p class="footnote">* Equal contribution</p>
 </section>

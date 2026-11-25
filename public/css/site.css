@@ -23,6 +23,7 @@ html[data-theme="light"] .sidebar {
   --thumb-ring: none;
   --hover-bg: rgba(255, 255, 255, 0.045);
   --hover-shadow: 0 0 0 1px rgba(255, 255, 255, 0.07), 0 12px 28px rgba(0, 0, 0, 0.45);
+  --filter-on: rgba(255, 176, 32, 0.1);
   --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
@@ -38,6 +39,7 @@ html[data-theme="light"] {
   --line-soft: rgba(18, 22, 29, 0.09);
   --line-strong: rgba(18, 22, 29, 0.18);
   --accent: #a84f00;
+  --filter-on: rgba(168, 79, 0, 0.08);
   --orb: #e08600;
   --strong: #000;
   --underline: rgba(18, 22, 29, 0.4);
@@ -308,6 +310,7 @@ section:first-child {
 }
 .sec-head {
   display: flex;
+  flex-wrap: wrap;
   align-items: baseline;
   gap: 14px;
   margin-bottom: 24px;
@@ -323,6 +326,34 @@ section:first-child {
   font-weight: 650;
   line-height: 1.15;
   letter-spacing: -0.025em;
+}
+.pub-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-left: auto;
+}
+.pub-filter button {
+  padding: 7px 12px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: none;
+  color: var(--muted);
+  font: 500 13px/1.2 var(--mono);
+  cursor: pointer;
+  transition:
+    color 0.15s,
+    border-color 0.15s,
+    background-color 0.15s;
+}
+.pub-filter button:hover {
+  color: var(--fg);
+  border-color: var(--card-line);
+}
+.pub-filter button[aria-pressed="true"] {
+  color: var(--accent);
+  border-color: currentColor;
+  background: var(--filter-on);
 }
 
 .prose p {
@@ -359,7 +390,7 @@ section:first-child {
 .pubs {
   margin-top: 8px;
 }
-.pubs + .sub-head {
+.pub-group:not([hidden]) ~ .pub-group .sub-head {
   margin-top: 52px;
 }
 .sub-head h3 {
@@ -640,6 +671,12 @@ section:first-child {
     gap: 12px 22px;
   }
 }
+@media (max-width: 1040px) and (min-width: 861px), (max-width: 720px) {
+  .pub-filter {
+    width: 100%;
+    margin-left: 0;
+  }
+}
 @media (max-width: 860px) {
   .layout {
     flex-direction: column;
@@ -702,6 +739,9 @@ section:first-child {
   .links a {
     padding: 12px 0;
     margin: -6px 0;
+  }
+  .pub-filter button {
+    padding: 10px 13px;
   }
 }
 @media (max-width: 560px) {

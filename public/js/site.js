@@ -54,3 +54,21 @@
   window.addEventListener("resize", update);
   update();
 })();
+
+(function () {
+  var section = document.getElementById("publication");
+  if (!section) return;
+  var buttons = Array.prototype.slice.call(section.querySelectorAll(".pub-filter button"));
+  var groups = Array.prototype.slice.call(section.querySelectorAll(".pub-group"));
+  buttons.forEach(function (button) {
+    button.addEventListener("click", function () {
+      var filter = button.getAttribute("data-filter");
+      buttons.forEach(function (b) {
+        b.setAttribute("aria-pressed", b === button ? "true" : "false");
+      });
+      groups.forEach(function (group) {
+        group.hidden = filter !== "all" && group.getAttribute("data-cat") !== filter;
+      });
+    });
+  });
+})();
