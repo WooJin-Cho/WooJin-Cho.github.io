@@ -136,6 +136,125 @@ main {
 .sidebar > * {
   flex-shrink: 0;
 }
+.gauge {
+  --t: 0;
+  --y: 0px;
+  position: fixed;
+  z-index: 5;
+  top: 72px;
+  bottom: 28px;
+  left: 300px;
+  width: 0;
+  pointer-events: none;
+}
+.gauge::before,
+.gauge::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 5px;
+  background: repeating-linear-gradient(to top, var(--line) 0 1px, transparent 1px 13px);
+}
+.gauge::after {
+  left: 5px;
+  width: 4px;
+  background: repeating-linear-gradient(to top, var(--line) 0 1px, transparent 1px 52px);
+}
+.gauge-target {
+  position: absolute;
+  top: 9px;
+  left: -5px;
+  width: 10px;
+  height: 10px;
+  border: 1px solid var(--label);
+  border-radius: 50%;
+  background: var(--side-bg);
+}
+.gauge-fill {
+  position: absolute;
+  bottom: 0;
+  left: -1px;
+  width: 2px;
+  height: calc(var(--y) + 14px);
+  background: #ffb020;
+}
+.gauge-fill::before {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: -8px;
+  width: 18px;
+  height: 2px;
+  background: var(--label);
+}
+.gauge-craft {
+  position: absolute;
+  bottom: 0;
+  left: -14px;
+  width: 28px;
+  height: 28px;
+  border-radius: 7px;
+  background: var(--side-bg);
+  transform: translateY(calc(var(--y) * -1));
+}
+.gauge-craft svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  fill: #fff;
+  transition: opacity 0.25s;
+}
+.gauge-craft .fin {
+  stroke: #fff;
+  stroke-width: 1.2;
+  stroke-linejoin: round;
+}
+.gauge-craft .port {
+  fill: var(--side-bg);
+}
+.gauge-craft .flame {
+  fill: #ffb020;
+  stroke: #ffb020;
+  stroke-width: 1;
+  stroke-linejoin: round;
+  opacity: 0;
+  transform-box: fill-box;
+  transform-origin: 50% 0;
+  transition: opacity 0.15s;
+}
+.gauge-craft .mast {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+}
+.gauge-craft .satellite {
+  opacity: 0;
+}
+.gauge.is-burning .flame {
+  opacity: 1;
+  animation: flame 0.24s ease-in-out infinite;
+}
+.gauge.is-orbit .rocket {
+  opacity: 0;
+}
+.gauge.is-orbit .satellite {
+  opacity: 1;
+}
+@keyframes flame {
+  0%,
+  100% {
+    transform: scaleY(1.1);
+  }
+  50% {
+    transform: scaleY(1.7);
+  }
+}
+
 .portrait {
   position: relative;
   align-self: center;
@@ -678,6 +797,28 @@ section:first-child {
   .layout {
     flex-direction: column;
   }
+  .gauge {
+    top: 0;
+    bottom: auto;
+    left: 0;
+    width: 100%;
+    height: 3px;
+  }
+  .gauge::before,
+  .gauge::after,
+  .gauge-target,
+  .gauge-craft,
+  .gauge-fill::before {
+    display: none;
+  }
+  .gauge-fill {
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--accent);
+    transform: scaleX(var(--t));
+    transform-origin: 0 50%;
+  }
   .sidebar {
     position: relative;
     height: auto;
@@ -755,6 +896,12 @@ section:first-child {
   }
   .orbiter {
     animation: none;
+  }
+  .gauge.is-burning .flame {
+    animation: none;
+  }
+  .gauge-craft svg {
+    transition: none;
   }
   .pub {
     transition: none;

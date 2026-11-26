@@ -72,3 +72,39 @@
     });
   });
 })();
+
+(function () {
+  var gauge = document.querySelector(".gauge");
+  if (!gauge) return;
+  var craft = gauge.querySelector(".gauge-craft"),
+    queued = false,
+    last = -1,
+    timer;
+  function update() {
+    queued = false;
+    var max = document.documentElement.scrollHeight - window.innerHeight,
+      t = max > 0 ? Math.min(1, Math.max(0, window.scrollY / max)) : 0,
+      travel = Math.max(0, gauge.clientHeight - craft.offsetHeight);
+    gauge.style.setProperty("--t", t.toFixed(4));
+    gauge.style.setProperty("--y", (t * travel).toFixed(1) + "px");
+    gauge.classList.toggle("is-orbit", t > 0.996);
+    if (last >= 0 && t !== last) {
+      gauge.classList.add("is-burning");
+      clearTimeout(timer);
+      timer = setTimeout(function () {
+        gauge.classList.remove("is-burning");
+      }, 160);
+    }
+    last = t;
+  }
+  function request() {
+    if (!queued) {
+      queued = true;
+      requestAnimationFrame(update);
+    }
+  }
+  window.addEventListener("scroll", request, { passive: true });
+  window.addEventListener("resize", request);
+  if ("ResizeObserver" in window) new ResizeObserver(request).observe(document.body);
+  update();
+})();
