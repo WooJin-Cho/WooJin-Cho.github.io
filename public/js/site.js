@@ -85,7 +85,6 @@
     var max = document.documentElement.scrollHeight - window.innerHeight,
       t = max > 0 ? Math.min(1, Math.max(0, window.scrollY / max)) : 0,
       travel = Math.max(0, gauge.clientHeight - craft.offsetHeight);
-    gauge.style.setProperty("--t", t.toFixed(4));
     gauge.style.setProperty("--y", (t * travel).toFixed(1) + "px");
     gauge.classList.toggle("is-orbit", t > 0.996);
     if (last >= 0 && t !== last) {

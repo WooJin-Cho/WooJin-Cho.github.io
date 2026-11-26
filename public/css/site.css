@@ -139,7 +139,6 @@ main {
   flex-shrink: 0;
 }
 .gauge {
-  --t: 0;
   --y: 0px;
   position: fixed;
   z-index: 5;
