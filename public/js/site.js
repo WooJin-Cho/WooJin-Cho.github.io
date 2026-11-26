@@ -11,9 +11,6 @@
     var light = root.getAttribute("data-theme") !== "light";
     if (light) root.setAttribute("data-theme", "light");
     else root.removeAttribute("data-theme");
-    try {
-      localStorage.setItem("theme", light ? "light" : "dark");
-    } catch (e) {}
     label();
   });
   label();

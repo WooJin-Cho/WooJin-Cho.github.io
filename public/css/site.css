@@ -54,7 +54,7 @@ html[data-theme="light"] {
 html[data-theme="light"] .sidebar {
   --accent: #d06f00;
   --orb: #d06f00;
-  --side-bg: #1b2d52;
+  --side-bg: #101b30;
   --muted: #b4bdcc;
   --label: #96a1b4;
   --line: rgba(255, 255, 255, 0.14);
@@ -198,6 +198,16 @@ html[data-theme="light"] .gauge-craft {
 }
 .gauge-craft .detail {
   fill: var(--detail);
+}
+.gauge-craft .key {
+  display: none;
+  fill: #fff;
+  stroke: #fff;
+  stroke-width: 1.5;
+  stroke-linejoin: round;
+}
+html[data-theme="light"] .gauge-craft .key {
+  display: inline;
 }
 .gauge-craft .flame {
   fill: var(--accent);
