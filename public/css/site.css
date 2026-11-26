@@ -54,7 +54,7 @@ html[data-theme="light"] {
 html[data-theme="light"] .sidebar {
   --accent: #d06f00;
   --orb: #d06f00;
-  --side-bg: #14213a;
+  --side-bg: #1b2d52;
   --muted: #b4bdcc;
   --label: #96a1b4;
   --line: rgba(255, 255, 255, 0.14);
