@@ -177,7 +177,7 @@ main {
   bottom: 0;
   left: -1px;
   width: 2px;
-  height: calc(var(--y) + 14px);
+  height: calc(var(--y) + 8px);
   background: #ffb020;
 }
 .gauge-fill::before {
@@ -195,8 +195,6 @@ main {
   left: -14px;
   width: 28px;
   height: 28px;
-  border-radius: 7px;
-  background: var(--side-bg);
   transform: translateY(calc(var(--y) * -1));
 }
 .gauge-craft svg {
@@ -205,16 +203,11 @@ main {
   width: 100%;
   height: 100%;
   overflow: visible;
-  fill: #fff;
+  color: #fff;
   transition: opacity 0.25s;
 }
-.gauge-craft .fin {
-  stroke: #fff;
-  stroke-width: 1.2;
-  stroke-linejoin: round;
-}
-.gauge-craft .port {
-  fill: var(--side-bg);
+html[data-theme="light"] .gauge-craft .main {
+  color: var(--side-bg);
 }
 .gauge-craft .flame {
   fill: #ffb020;
@@ -225,12 +218,6 @@ main {
   transform-box: fill-box;
   transform-origin: 50% 0;
   transition: opacity 0.15s;
-}
-.gauge-craft .mast {
-  fill: none;
-  stroke: #fff;
-  stroke-width: 1.6;
-  stroke-linecap: round;
 }
 .gauge-craft .satellite {
   opacity: 0;

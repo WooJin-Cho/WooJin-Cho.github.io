@@ -13,21 +13,32 @@
         <span class="gauge-fill"></span>
         <span class="gauge-craft">
           <svg class="rocket" viewBox="0 0 32 32">
-            <path d="M16 3.5C20 7.5 21.6 12.5 21.6 17.5V22.6H10.4V17.5C10.4 12.5 12 7.5 16 3.5Z"/>
-            <path class="fin" d="M10.4 16.5 6 22.4V25.6H10.4ZM21.6 16.5 26 22.4V25.6H21.6Z"/>
-            <circle class="port" cx="16" cy="13.2" r="2.5"/>
+            <defs>
+              <clipPath id="craft-side"><rect x="-8" y="-8" width="25" height="48"/></clipPath>
+              <clipPath id="craft-main"><rect x="16" y="-8" width="24" height="48"/></clipPath>
+              <g id="craft-rocket" fill="currentColor">
+                <path fill-rule="evenodd" d="M16 3.5C20 7.5 21.6 12.5 21.6 17.5V22.6H10.4V17.5C10.4 12.5 12 7.5 16 3.5ZM16 10.7a2.5 2.5 0 1 0 0 5 2.5 2.5 0 1 0 0-5Z"/>
+                <path stroke="currentColor" stroke-width="1.2" stroke-linejoin="round" d="M10.4 16.5 6 22.4V25.6H10.4ZM21.6 16.5 26 22.4V25.6H21.6Z"/>
+              </g>
+              <g id="craft-satellite" fill="currentColor">
+                <g transform="rotate(-32 16 16)">
+                  <rect x="12" y="10" width="8" height="12" rx="1.6"/>
+                  <rect x="2" y="12.4" width="8.2" height="7.2" rx="1.2"/>
+                  <rect x="21.8" y="12.4" width="8.2" height="7.2" rx="1.2"/>
+                  <rect x="9.6" y="15.1" width="3" height="1.8"/>
+                  <rect x="19.4" y="15.1" width="3" height="1.8"/>
+                </g>
+                <path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" d="M19.2 9.3 22 5.2"/>
+                <circle cx="22.6" cy="4.6" r="1.7"/>
+              </g>
+            </defs>
+            <use class="side" href="#craft-rocket" clip-path="url(#craft-side)"/>
+            <use class="main" href="#craft-rocket" clip-path="url(#craft-main)"/>
             <path class="flame" d="M13.2 24.8H18.8L16 30Z"/>
           </svg>
           <svg class="satellite" viewBox="0 0 32 32">
-            <g transform="rotate(-32 16 16)">
-              <rect x="12" y="10" width="8" height="12" rx="1.6"/>
-              <rect x="2" y="12.4" width="8.2" height="7.2" rx="1.2"/>
-              <rect x="21.8" y="12.4" width="8.2" height="7.2" rx="1.2"/>
-              <rect x="9.6" y="15.1" width="3" height="1.8"/>
-              <rect x="19.4" y="15.1" width="3" height="1.8"/>
-            </g>
-            <path class="mast" d="M19.2 9.3 22 5.2"/>
-            <circle cx="22.6" cy="4.6" r="1.7"/>
+            <use class="side" href="#craft-satellite" clip-path="url(#craft-side)"/>
+            <use class="main" href="#craft-satellite" clip-path="url(#craft-main)"/>
           </svg>
         </span>
       </div>
