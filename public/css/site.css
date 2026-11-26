@@ -295,7 +295,7 @@ html[data-theme="light"] .gauge-craft .key {
 .theme-toggle {
   position: absolute;
   top: 14px;
-  right: 24px;
+  left: 14px;
   width: 36px;
   height: 36px;
   display: grid;
@@ -506,6 +506,7 @@ section:first-child {
 }
 
 .pub {
+  position: relative;
   display: grid;
   grid-template-columns: 224px minmax(0, 1fr);
   gap: 12px 28px;
@@ -518,9 +519,36 @@ section:first-child {
     box-shadow 0.2s ease,
     transform 0.2s ease;
 }
+.pub::after {
+  --bolt: radial-gradient(
+    circle closest-side,
+    transparent 0 46%,
+    var(--dim) 52% 86%,
+    transparent 94%
+  );
+  content: "";
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  bottom: 10px;
+  width: 7px;
+  background:
+    var(--bolt) top / 7px 7px no-repeat,
+    var(--bolt) bottom / 7px 7px no-repeat;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
 .pub:focus-within {
   background: var(--hover-bg);
   box-shadow: var(--hover-shadow);
+}
+.pub:focus-within::after {
+  opacity: 1;
+}
+.pub:focus-within .thumb::after {
+  inset: -7px;
+  opacity: 1;
 }
 @media (hover: hover) {
   .pub:hover {
@@ -528,16 +556,44 @@ section:first-child {
     box-shadow: var(--hover-shadow);
     transform: translateY(-2px);
   }
+  .pub:hover::after {
+    opacity: 1;
+  }
+  .pub:hover .thumb::after {
+    inset: -7px;
+    opacity: 1;
+  }
 }
 .thumb {
+  position: relative;
   width: 100%;
   aspect-ratio: 8/5;
   border-radius: 8px;
-  overflow: hidden;
   background: #fff;
   filter: var(--thumb-filter);
   box-shadow: var(--thumb-ring);
   transition: filter 0.2s;
+}
+.thumb::after {
+  --edge: linear-gradient(var(--accent), var(--accent));
+  content: "";
+  position: absolute;
+  inset: -3px;
+  background:
+    var(--edge) left top / 12px 1.5px,
+    var(--edge) left top / 1.5px 12px,
+    var(--edge) right top / 12px 1.5px,
+    var(--edge) right top / 1.5px 12px,
+    var(--edge) left bottom / 12px 1.5px,
+    var(--edge) left bottom / 1.5px 12px,
+    var(--edge) right bottom / 12px 1.5px,
+    var(--edge) right bottom / 1.5px 12px;
+  background-repeat: no-repeat;
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    opacity 0.2s ease,
+    inset 0.2s ease;
 }
 .pub:hover .thumb {
   filter: brightness(1);
@@ -546,6 +602,7 @@ section:first-child {
   display: block;
   width: 100%;
   height: 100%;
+  border-radius: inherit;
   object-fit: contain;
 }
 .thumb.dark {
@@ -825,6 +882,7 @@ section:first-child {
   .theme-toggle {
     top: 10px;
     right: 12px;
+    left: auto;
     width: 40px;
     height: 40px;
   }
@@ -886,6 +944,10 @@ section:first-child {
   }
   .gauge.is-burning .flame {
     animation: none;
+  }
+  .pub::after,
+  .thumb::after {
+    transition: none;
   }
   .gauge-craft svg {
     transition: none;
