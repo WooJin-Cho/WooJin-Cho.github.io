@@ -37,7 +37,7 @@ html[data-theme="light"] {
   --line: rgba(18, 22, 29, 0.14);
   --line-soft: rgba(18, 22, 29, 0.09);
   --line-strong: rgba(18, 22, 29, 0.18);
-  --accent: #a84f00;
+  --accent: #d06f00;
   --orb: #e08600;
   --strong: #000;
   --underline: rgba(18, 22, 29, 0.4);
@@ -52,8 +52,8 @@ html[data-theme="light"] {
   --hover-shadow: 0 0 0 1px rgba(18, 22, 29, 0.08), 0 10px 26px rgba(18, 22, 29, 0.1);
 }
 html[data-theme="light"] .sidebar {
-  --accent: #a84f00;
-  --orb: #a84f00;
+  --accent: #d06f00;
+  --orb: #d06f00;
   --side-bg: #101b30;
   --muted: #b4bdcc;
   --label: #96a1b4;
@@ -200,6 +200,16 @@ html[data-theme="light"] .gauge-craft {
 .gauge-craft .detail {
   fill: var(--detail);
 }
+.gauge-craft .key {
+  display: none;
+  fill: #fff;
+  stroke: #fff;
+  stroke-width: 2.2;
+  stroke-linejoin: round;
+}
+html[data-theme="light"] .gauge-craft .key {
+  display: inline;
+}
 .gauge-craft .flame {
   fill: var(--accent);
   stroke: var(--accent);
@@ -223,25 +233,6 @@ html[data-theme="light"] .gauge-craft {
 }
 .gauge.is-orbit .satellite {
   opacity: 1;
-}
-@media (min-width: 861px) {
-  html[data-theme="light"] .gauge {
-    left: 316px;
-    border-left: 1px solid var(--line);
-  }
-}
-@media (min-width: 861px) and (max-width: 1100px) {
-  html[data-theme="light"] .gauge {
-    left: 312px;
-  }
-  html[data-theme="light"] .gauge-craft {
-    left: -12px;
-    width: 24px;
-    height: 24px;
-  }
-  html[data-theme="light"] .gauge-craft .satellite {
-    transform: scale(1.15);
-  }
 }
 @keyframes flame {
   0%,
@@ -778,7 +769,7 @@ section:first-child {
 
 @media (max-width: 1100px) {
   .content {
-    padding: 52px 36px 88px 44px;
+    padding: 52px 36px 88px;
   }
   .pub {
     grid-template-columns: 184px minmax(0, 1fr);
